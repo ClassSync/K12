@@ -1,4 +1,4 @@
-# School Information Management
+# ClassSync ( School Information Management )
 Microsoft Teams로 블랜디드 학습환경 만들기 
 
 1. Microsoft Teams
@@ -9,6 +9,6 @@ Microsoft Teams로 블랜디드 학습환경 만들기
   Insights Premium 연결
   
 3. ClassSync : 학교정보관리
-  동서정보시스템에서 제공하는 학교정보관리솔루션 ( SDS Format 2.1 )
+  K12 전용 학교정보관리솔루션 ( SDS Format 2.1 )
   
   
