@@ -1,4 +1,4 @@
-# ClassSync ( School Information Management )
+# ClassSync ( School Information Management  )
 Microsoft Teams로 블랜디드 학습환경 만들기 
 
 1. Microsoft Teams : 학생 전용 정책 구성
