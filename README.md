@@ -5,4 +5,6 @@ Microsoft Teams로 블랜디드 학습환경 만들기
 
 2. Microisoft School Data Sync : 사용자 계정 , 수업팀 구성, Insights Premium 연결
   
-3. ClassSync : K12 전용 학교정보관리솔루션 ( SDS Format 2.1 지원 )
+3. ClassSync for K12 : K12 전용 학교정보관리솔루션 ( SDS Format 2.1 지원 )
+
+4. ClassSync for HE : 대학 전용 학교정보관리솔루션 ( SDS Format 2.1 지원 )
