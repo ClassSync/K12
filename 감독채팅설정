@@ -1,6 +1,7 @@
-# 교사와 학생그룹 만들기
+1. 교사와 학생그룹 만들기
 
-# 교사그룹 만들기
+1.1 교사그룹 만들기
+
 $GroupName      = "Teachers"
 $GroupNickName  = "Teachers_Group" 
 $myGroup = $null
@@ -17,7 +18,7 @@ foreach ($faculty in $faculties)
     Add-AzureADGroupMember -ObjectId $myGroup.ObjectId -RefObjectId $faculty.ObjectId
 }
 
-#학생그룹 만들기
+1.2 학생그룹 만들기
 $GroupName      = "Students"
 $GroupNickName  = "Student_Group" 
 $SKU = "reseller-account:STANDARDWOFFPACK_IW_STUDENT"
@@ -33,11 +34,13 @@ foreach ($student in $students)
     Add-AzureADGroupMember -ObjectId $myGroup.ObjectId -RefObjectId $student.ObjectId
 }
 
-1. 팀즈관리센터 (https://admin.teams.microsoft.com) 에서 메시지 정책만들기
+2. 감독채팅 설정
+
+2.1. 팀즈관리센터 (https://admin.teams.microsoft.com) 에서 메시지 정책만들기
    https://docs.microsoft.com/ko-kr/microsoftteams/policy-assignment-overview
    교사그룹에 채팅권한 역할에 전체 권한
    학생그룹에 채팅권한 역할에 한정된 권한
 
-2. 감독채팅 전역설정 : 
+2.2 감독채팅 전역설정 : 
    https://docs.microsoft.com/ko-kr/microsoftteams/supervise-chats-edu
    Set-CsTeamsClientConfiguration -AllowRoleBasedChatPermissions $True
