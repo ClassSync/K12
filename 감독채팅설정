@@ -43,4 +43,9 @@ foreach ($student in $students)
 
 2.2 감독채팅 전역설정 : 
    https://docs.microsoft.com/ko-kr/microsoftteams/supervise-chats-edu
+   
+   Connect-AzAccoun
+   Get-AzTenant | fl domains
+   $strTenantName = "https://myschooldomainName-admin.sharepoint.com"
+   Connect-SPOService -Url $strTenantName
    Set-CsTeamsClientConfiguration -AllowRoleBasedChatPermissions $True
