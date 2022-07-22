@@ -1,0 +1,50 @@
+# 교사와 학생그룹 만들기
+
+# 교사그룹 만들기
+$GroupName      = "Teachers"
+$GroupNickName  = "Teachers_Group" 
+$myGroup = $null
+$SKU = "reseller-account:STANDARDWOFFPACK_IW_FACULTY"
+$myGroup = get-azureadgroup -SearchString $GroupName
+if( $myGroup.Count -eq 0 )
+{
+    $myGroup = New-AzureADGroup -Description $GroupNickName -DisplayName $GroupName -MailEnabled $false -SecurityEnabled $true -MailNickName $GroupNickName
+}
+$faculties = Get-MsolUser -all | Where-Object {$_.licenses-ne $null -and $_.licenses.AccountSkuId.Contains( $SKU )} | select ObjectId  
+foreach ($faculty in $faculties)
+{
+    Write-Host -ForegroundColor green "$($faculty) 추가"
+    Add-AzureADGroupMember -ObjectId $myGroup.ObjectId -RefObjectId $faculty.ObjectId
+}
+
+#학생그룹 만들기
+$GroupName      = "Students"
+$GroupNickName  = "Student_Group" 
+$SKU = "reseller-account:STANDARDWOFFPACK_IW_STUDENT"
+$myGroup = get-azureadgroup -SearchString $GroupName
+if( $myGroup.Count -eq 0 )
+{
+    $myGroup = New-AzureADGroup -Description $GroupNickName -DisplayName $GroupName -MailEnabled $false -SecurityEnabled $true -MailNickName $GroupNickName
+}
+$students = Get-MsolUser -all | Where-Object {$_.licenses-ne $null -and $_.licenses.AccountSkuId.Contains( $SKU )} | select ObjectId  
+foreach ($student in $students)
+{
+    Write-Host -ForegroundColor green "$($student) 추가"
+    Add-AzureADGroupMember -ObjectId $myGroup.ObjectId -RefObjectId $student.ObjectId
+}
+
+# 참고사이트 https://docs.microsoft.com/ko-kr/microsoftteams/policy-assignment-overview
+#            https://docs.microsoft.com/ko-kr/microsoftteams/supervise-chats-edu
+
+1. 팀즈관리센터 (https://admin.teams.microsoft.com) 에서 메시지 정책만들기
+   교사그룹에 채팅권한 역할에 전체 권한
+   학생그룹에 채팅권한 역할에 한정된 권한
+
+2. 감독채팅 전역설정
+  Set-CsTeamsClientConfiguration -AllowRoleBasedChatPermissions $True
+
+
+
+
+
+
