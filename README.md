@@ -8,3 +8,7 @@ Microsoft Teams로 블랜디드 학습환경 만들기
 3. ClassSync for K12 : K12 전용 학교정보관리솔루션 ( SDS Format 2.1 지원 )
 
 4. ClassSync for HE : 대학 전용 학교정보관리솔루션 ( SDS Format 2.1 지원 )
+
+
+기타 기술지원
+1. 학생끼리 채팅을 하지 못하도록 설정
