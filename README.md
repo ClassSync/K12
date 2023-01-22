@@ -34,7 +34,13 @@ Microsoft Teams에 블랜디드 학습환경 만들기
 
    ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
 
-4. ClassSync for K12 : K12 전용 학교정보관리솔루션 
+4. 온라인 학습 플랫폼 
+
+   교육용 클라우드 아이디를 통합하여 학생에게 더 많은 학습기회를 제공할 수 있습니다.
+
+  ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
+
+5. ClassSync for K12 연동  
 
    ClassSync는 SDS Format 2.1 지원합니다.
    
@@ -42,13 +48,7 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    교과코드는 국가교육과정 과목코드를 사용합니다.
    
-5. 온라인 학습 플랫폼 
-
-   교육용 클라우드 아이디를 통합하여 학생에게 더 많은 학습기회를 제공할 수 있습니다.
-
-  ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
-
-
+   프로그램 문의  hjshin@dongseo.com 
 
 
 
