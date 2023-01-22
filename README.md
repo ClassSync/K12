@@ -10,9 +10,10 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    과목별 시수 배당표를 기준으로 학교 전체 수업 목록을 관리합니다. ( 목표시간 10 분 이내 )
    
-   교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
+   교육용 교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
        
-   ![image](https://user-images.githubusercontent.com/16409151/213899810-750e79d2-8511-44ca-a856-c2a1958f2c90.png)
+   ![image](https://user-images.githubusercontent.com/16409151/213899827-855964de-2094-4171-9078-4ac84cf822cc.png)
+
 
 2. Microisoft School Data Sync  
 
