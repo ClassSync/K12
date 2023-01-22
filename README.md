@@ -34,7 +34,7 @@ Microsoft Teams에 블랜디드 학습환경 만들기
 
    ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
 
-4. 온라인 학습 플랫폼 
+4. 확장 가능한 온라인 학습 플랫폼 
 
    교육용 클라우드 아이디를 통합하여 학생에게 더 많은 학습기회를 제공할 수 있습니다.
 
