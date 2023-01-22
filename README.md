@@ -45,7 +45,8 @@ Microsoft Teams에 블랜디드 학습환경 만들기
 
    교육용 클라우드 아이디를 통합하여 학생에게 더 많은 학습기회를 제공할 수 있습니다.
 
-  ![image](https://user-images.githubusercontent.com/16409151/213899569-b89d5fdd-9cb4-4da7-9f38-85c61076c438.png)
+  ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
+
 
 
 
