@@ -22,12 +22,12 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 디지털 학습활동을 분석할 수 있습니다.
    
-   디지털 학습분석을 사용하면 학생과 교사에게 더나은 피드백을 제공할 수 있습니다.
-
    ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
 
 
-3. Open Education Analytics   
+3. Open Education Analytics
+
+   디지털 학습분석을 사용하면 학생과 교사에게 더나은 피드백을 제공할 수 있습니다.  
 
    ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
 
