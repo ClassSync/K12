@@ -15,7 +15,7 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    ![image](https://user-images.githubusercontent.com/16409151/213899827-855964de-2094-4171-9078-4ac84cf822cc.png)
 
 
-2. Microisoft School Data Sync  
+2. Microsoft School Data Sync  
 
    SDS를 통해 온라인 학급이 구성되고 구성 속성과 함께 디지털 학습활동이 SDS Data Lake 저장됩니다.
    
