@@ -12,7 +12,7 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
        
-   ![image](https://user-images.githubusercontent.com/16409151/213896759-131506c1-a6d5-4b3e-b61c-7b501fe0d4e9.png)
+   ![image](https://user-images.githubusercontent.com/16409151/213899810-750e79d2-8511-44ca-a856-c2a1958f2c90.png)
 
 2. Microisoft School Data Sync  
 
