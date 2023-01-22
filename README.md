@@ -55,7 +55,9 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    http://ncic.re.kr/
    
-   프로그램 문의 : 동서정보시스템 hjshin@dongseo.com 
+   학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 전체 기능을 실행할 수 있습니다.
+   
+   프로그램 기술지원 문의 : 동서정보시스템 hjshin@dongseo.com 
 
 
 
