@@ -21,12 +21,15 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    SDS를 통해 온라인 학급이 구성되고 구성 속성과 함께 디지털 학습활동이 SDS Data Lake 저장됩니다.
    
    SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 디지털 학습활동을 분석할 수 있습니다.
-   
-   Open Education Analytics   
+
+   ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
+
+
+3. Open Education Analytics   
+
    ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
 
-
-3. ClassSync for K12 : K12 전용 학교정보관리솔루션 
+4. ClassSync for K12 : K12 전용 학교정보관리솔루션 
 
    ClassSync는 SDS Format 2.1 지원합니다.
    
