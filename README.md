@@ -14,6 +14,7 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    교육용 클라우드 아이디를 통합하여 학생에게 더 많은 학습기회를 제공할 수 있습니다.
    
+   ![image](https://user-images.githubusercontent.com/16409151/213896759-131506c1-a6d5-4b3e-b61c-7b501fe0d4e9.png)
 
 2. Microisoft School Data Sync : 
 
@@ -33,7 +34,7 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    교과코드는 국가교육과정 과목코드를 사용합니다.
   
-  ![image](https://user-images.githubusercontent.com/16409151/213896759-131506c1-a6d5-4b3e-b61c-7b501fe0d4e9.png)
+  
 
  
 
