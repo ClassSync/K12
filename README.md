@@ -1,4 +1,4 @@
-# ClassSync ( School Information Management  )
+# ClassSync ( School Information System  )
 
 Microsoft Teams에 블랜디드 학습환경 만들기 
 
