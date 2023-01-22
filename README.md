@@ -30,7 +30,9 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    앞으로 사용될 방대하고 다양한 자료집합에 비하면 이제껏 교육에서 사용되어온 시험 점수, 성적표, 출석부 등의 몇 가지 측정 기준은 매우 초라해 보일 것, 학생이 화면에서 클릭하는 지점, 답하는 데 걸리는 시간 등 매우 다양한 자료를 수집하고 또한 수십만 명에 달하는 학생들의 자료를 수집하고 저장하고 분석할 수 있다.
    
-   디지털 학습분석을 사용하면 학생과 교사에게 더나은 피드백을 제공할 수 있습니다.  
+   디지털 학습분석을 사용하면 학생과 교사에게 더나은 피드백을 제공할 수 있습니다.
+   
+   OEA(Open Education Analytics)는 Microsoft Education이 조정하는 오픈 소스 프로그램입니다.
 
    ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
 
@@ -54,6 +56,10 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    교과코드는 국가교육과정정보센터에 게시된 과목명을 사용합니다.  
    
    http://ncic.re.kr/
+   
+   OEA(Open Education Analytics)
+   
+   https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics
    
    학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 전체 기능을 실행할 수 있습니다.
    
