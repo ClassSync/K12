@@ -42,13 +42,20 @@ Microsoft Teams에 블랜디드 학습환경 만들기
 
 5. ClassSync for K12 연동  
 
-   ClassSync는 SDS Format 2.1 지원합니다.
+   ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.
+   
+   https://learn.microsoft.com/ko-kr/schooldatasync/sds-v2.1-csv-file-format
+   
    
    학교코드는 나이스 학교기본정보 표준학교 코드를 사용합니다.
    
-   교과코드는 국가교육과정 과목코드를 사용합니다.
+   https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&amp;rows=10&amp;sortColumn=&amp;sortDirection=&amp;infId=OPEN17020190531110010104913&amp;infSeq=1
    
-   프로그램 문의  hjshin@dongseo.com 
+   교과코드는 국가교육과정정보센터에 게시된 과목명을 사용합니다.  
+   
+   http://ncic.re.kr/
+   
+   프로그램 문의 : 동서정보시스템 hjshin@dongseo.com 
 
 
 
