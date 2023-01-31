@@ -12,7 +12,8 @@ Microsoft Teams에 블랜디드 학습환경 만들기
    
    교육용 교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
        
-   ![image](https://user-images.githubusercontent.com/16409151/213899827-855964de-2094-4171-9078-4ac84cf822cc.png)
+   ![image](https://user-images.githubusercontent.com/16409151/215871713-b7675b22-5332-4bf1-8dbf-1290f9b19b39.png)
+
 
 
 2. Microsoft School Data Sync  
