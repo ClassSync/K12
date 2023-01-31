@@ -1,7 +1,8 @@
 #  ClassSync ( School Information System  )
+## Microsoft Teams에 블랜디드 학습환경 만들기 
 ### ClassSync는 나이스 교육정보 개방포털에서 제공하는 학교 정보와 연동됩니다.
 
-## Microsoft Teams에 블랜디드 학습환경 만들기 
+
 
 1. ClassSync로 온라인 학급 구성   
 
