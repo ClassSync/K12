@@ -55,7 +55,7 @@ https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-
 
 6. 프로그램 사용관련    
 6.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
-6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 모든 기능을 사용할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
+6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
 6.3. 문의처 : 동서정보시스템 hjshin@dongseo.com    
 
 
