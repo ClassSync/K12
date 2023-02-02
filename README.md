@@ -45,27 +45,17 @@
 
   ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
 
-5. ClassSync for K12 연동  
-
->5.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.
->>>https://learn.microsoft.com/ko-kr/schooldatasync/sds-v2.1-csv-file-format
-   
->5.2. 학교코드는 나이스 학교기본정보 표준학교 코드를 사용합니다.
-   
->>https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&amp;rows=10&amp;sortColumn=&amp;sortDirection=&amp;infId=OPEN17020190531110010104913&amp;infSeq=1
-   
->5.3. 교과코드는 국가교육과정정보센터에 게시된 과목명을 사용합니다.  
-   
->>http://ncic.re.kr/
-   
->5.4. OEA(Open Education Analytics)
->>https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics
-   
->5.5. Microsoft 365 학교 관리자 계정
->>학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 전체 기능을 실행할 수 있습니다.
-   
->5.6. 프로그램 문의 
->>동서정보시스템 hjshin@dongseo.com 
+5. ClassSync for K12 연동   
+5.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.   
+https://learn.microsoft.com/ko-kr/schooldatasync   
+5.2. OEA(Open Education Analytics)   
+https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics   
+5.3. Microsoft 365 학교 관리자 계정   
+학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.   
+6. 프로그램 사용관련    
+6.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
+6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 모든 기능을 사용할 수 있습니다.      
+6.2. 문의처 : 동서정보시스템 hjshin@dongseo.com    
 
 
 
