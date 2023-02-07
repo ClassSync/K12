@@ -58,7 +58,7 @@ https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-
 6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
 6.3. 문의처 : 동서정보시스템 hjshin@dongseo.com    
 
-7. ClassSync Microsoft Store    
+7. ClassSync 프로그램 설치    
 Microsoft Store URL  : https://www.microsoft.com/store/apps/9PJ792P907Q9    
 
 
