@@ -1,4 +1,4 @@
-# ClassSync 설치 파일
+# ClassSync for K12 설치
 ### 설치파일은 두가지 경로를 통해서만 제공됩니다.
 
 1. Microsoft Store 에서 설치   
