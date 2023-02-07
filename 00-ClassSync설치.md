@@ -1,5 +1,7 @@
 # ClassSync for K12 설치
+## 처음 사용하는 학교는 15일 간 기능을 무료로 사용할 수 있습니다. 
 ### 설치파일은 두가지 경로를 통해서만 제공됩니다.
+
 
 1. Microsoft Store 에서 설치   
 https://www.microsoft.com/store/apps/9PJ792P907Q9   
