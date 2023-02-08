@@ -5,7 +5,6 @@
 
 
 1. ClassSync로 온라인 학급 구성   
-
    
 
    교사는 ClassSync를 통해 온라인 교실을 빠르게 구성하고 쉽게 관리합니다. ( 목표처리시간 5분 이내 ) 
@@ -17,6 +16,11 @@
    교육용 교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
        
    ![image](https://user-images.githubusercontent.com/16409151/215871938-54b7a3d4-409d-4e91-91e2-8b1bb43a6821.png)
+   
+   ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 동행하겠습니다
+
+   ![image](https://user-images.githubusercontent.com/16409151/217441550-57549b39-a50f-4f05-bc7c-d74e39f9ef7a.png)
+
 
 2. Microsoft School Data Sync  
 
