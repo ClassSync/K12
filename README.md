@@ -53,16 +53,15 @@ https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-
 5.3. Microsoft 365 학교 관리자 계정   
 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.
 
-6. 프로그램 사용관련    
-6.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
-6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
-6.3. 문의처 : 동서정보시스템 hjshin@dongseo.com    
-
-7. ClassSync 프로그램 설치    
+6. ClassSync 프로그램 설치    
 Microsoft Store URL (승인대기중) : https://www.microsoft.com/store/apps/9PJ792P907Q9    
 
+7. 프로그램 사용관련    
+6.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
+6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
 
-
+## 제품문의 동서정보시스템 hjshin@dongseo.com
+### ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 함께 동행하겠습니다
 
   
 
