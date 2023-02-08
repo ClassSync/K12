@@ -1,4 +1,4 @@
-#  ClassSync (School Information System)
+#  ClassSync for K12 (School Information System)
 ## Microsoft Teams에 블랜디드 학습환경 만들기 
 ### ClassSync는 나이스 교육정보 개방포털에서 제공하는 학교 정보와 연동됩니다.
 
@@ -61,9 +61,4 @@ Microsoft Store URL (승인대기중) : https://www.microsoft.com/store/apps/9PJ
 6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
 
 ## 제품문의 동서정보시스템 hjshin@dongseo.com
-### ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 함께 동행하겠습니다
-
-  
-
- 
-
+### ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 함께 동행하겠습니다.
