@@ -59,7 +59,7 @@ https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-
 6.3. 문의처 : 동서정보시스템 hjshin@dongseo.com    
 
 7. ClassSync 프로그램 설치    
-Microsoft Store URL  : https://www.microsoft.com/store/apps/9PJ792P907Q9    
+Microsoft Store URL (승인대기중) : https://www.microsoft.com/store/apps/9PJ792P907Q9    
 
 
 
