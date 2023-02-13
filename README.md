@@ -54,7 +54,7 @@ https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-
 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.
 
 6. ClassSync 프로그램 설치    
-Microsoft Store URL (승인대기중) : https://www.microsoft.com/store/apps/9PJ792P907Q9    
+Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9    
 
 7. 프로그램 사용관련    
 6.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
