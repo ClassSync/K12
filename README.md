@@ -2,9 +2,10 @@
 ## Microsoft Teams에 블랜디드 학습환경 만들기 
 ### ClassSync는 나이스 교육정보 개방포털에서 제공하는 학교 정보와 연동됩니다.
 
+1. ClassSync 프로그램 설치    
+Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9    
 
-
-1. ClassSync로 온라인 학급 구성   
+2. ClassSync로 온라인 학급 구성   
    
 
    교사는 ClassSync를 통해 온라인 교실을 빠르게 구성하고 쉽게 관리합니다. ( 목표처리시간 5분 이내 ) 
@@ -18,7 +19,7 @@
    ![image](https://user-images.githubusercontent.com/16409151/215871938-54b7a3d4-409d-4e91-91e2-8b1bb43a6821.png)
    
 
-2. Microsoft School Data Sync  
+3. Microsoft School Data Sync  
 
    SDS를 통해 온라인 학급이 구성되고 구성 속성과 함께 디지털 학습활동이 SDS Data Lake 저장됩니다.
    
@@ -27,7 +28,7 @@
    ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
 
 
-3. Open Education Analytics
+4. Open Education Analytics
 
    <<빅데이터로 학습하기: 교육의 미래 Learning with Big Data The Future of Education >>  
    
@@ -39,26 +40,23 @@
 
    ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
 
-4. 확장 가능한 온라인 학습 플랫폼 
+5. 확장 가능한 온라인 학습 플랫폼 
 
    교육용 클라우드 아이디를 통합하여 학생에게 더 많은 학습기회를 제공할 수 있습니다.
 
   ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
 
-5. ClassSync for K12 연동   
-5.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.   
+6. ClassSync for K12 연동   
+6.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.   
 https://learn.microsoft.com/ko-kr/schooldatasync   
-5.2. OEA(Open Education Analytics)   
+6.2. OEA(Open Education Analytics)   
 https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics   
-5.3. Microsoft 365 학교 관리자 계정   
+6.3. Microsoft 365 학교 관리자 계정   
 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.
 
-6. ClassSync 프로그램 설치    
-Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9    
-
 7. 프로그램 사용관련    
-6.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
-6.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
+7.1. ClassSync를 실행하면 15일간 모든 기능을 사용할 수 있습니다.   
+7.2. 제조사에서 제공하는 라이선스 키를 등록하면 1년 동안 ClassSync for K12가 제공하는 기능을 실행할 수 있고 제조사의 온라인 기술지원이 제공됩니다.      
 
 ## 제품문의 동서정보시스템 hjshin@dongseo.com
 ### ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 함께 동행하겠습니다.
