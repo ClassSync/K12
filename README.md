@@ -4,6 +4,7 @@
 
 1. ClassSync 프로그램 설치    
 Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9    
+Microsoft Store 프로토콜 링크 ms-windows-store://pdp/?productid=9PJ792P907Q9
 
 2. ClassSync로 온라인 학급 구성   
    
