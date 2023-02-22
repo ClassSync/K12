@@ -1,0 +1,9 @@
+# CSV 파일업로드
+## School Data Sync Deployment - SDS CSV 2.1 Format Files
+
+1. 참고영상
+https://www.youtube.com/watch?v=mm5h0FTJBTg
+
+2. 특이사항
+영상에서는 기존 사용자를 안내하고 있습니다. 새 사용자를 선택하세요 
+![image](https://user-images.githubusercontent.com/16409151/220493340-a23eaea8-03a7-42dd-b2d4-82de8d20f03b.png)
