@@ -23,7 +23,7 @@ https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 2.3 액셀에서 CSV 파일을 편집하고 저장, 편집이 완료된 파일 [Read CSV File] 또는 CSV 가져오기    
 ![image](https://github.com/ClassSync/K12/assets/16409151/d41a171a-14f5-4ee3-919a-7549ead894fe)
 2.4 통합 계정 만들기   
-**Microsoft 365에 계정이 생성됩니다. 기존 계정은 표시이름이 변경됩니다. Google Workspace와 SSO 를 구성한 경우 계정이 동기화 됩니다.**   
+**Microsoft 365에 계정이 생성됩니다. 기존 계정은 표시 이름을 변경할 수 있습니다. Google Workspace와 SSO를 구성한 경우 계정이 동기화 됩니다.**   
 ![image](https://github.com/ClassSync/K12/assets/16409151/f153899f-77c9-4208-835c-02658259fb8e)
 
 #### B. 통합 계정 SSO 구축하기   
