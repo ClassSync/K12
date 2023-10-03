@@ -29,7 +29,7 @@ https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 #### B. 통합 계정 SSO 구축하기   
    **학교 전용 Google 테넌트를 보유하고 있어야 함**   
    **통합 계정에 연결할 도메인에 대해 DNS 레코드 변경이 가능해야 함**   
-   **2023년 11월 31일 까지 통합 계정 SSO 구축을 무료 지원할 예정입니다. 무료 지원은 당사 사정에 따라 조기 종료될 수 있습니다.**  
+   **2023년 11월 30일 까지 통합 계정 SSO 구축을 무료 지원할 예정입니다. 무료 지원은 당사 사정에 따라 조기 종료될 수 있습니다.**  
    **구축문의 : hjshin@dongseo.com**
 
 https://github.com/ClassSync/K12/assets/16409151/96aea36f-a44d-4f9f-b24e-350eabd42f2f
