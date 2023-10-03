@@ -6,7 +6,7 @@
 
 #### A. 통합 계정 만들기  
 
-1. 프로그램 설치 및 설정
+1. 프로그램 설치 및 설정  
 1.1 프로그램 설치  
 https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 ![image](https://github.com/ClassSync/K12/assets/16409151/9985fbd4-25e1-4b34-bead-94d5867614d1)
