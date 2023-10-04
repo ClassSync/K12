@@ -16,7 +16,7 @@ https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 ![image](https://github.com/ClassSync/K12/assets/16409151/e92b1f76-8bf0-4770-8ba6-ede7125ab7cf)
 
 2. 통합 계정 만들기   
-2.1 통합 계정 가져오기 (클라우드에서 기존 계정 정보를 가져와서 정리합니다.)
+2.1 통합 계정 가져오기 (클라우드에 저장된 기존 계정 정보를 가져와서 정리합니다.)
 ![image](https://github.com/ClassSync/K12/assets/16409151/7dff22d1-624d-4c09-b7b5-dcfa46a11ba1)
 2.2 CSV 내보내기 
 ![image](https://github.com/ClassSync/K12/assets/16409151/670cbb58-e394-43ae-bc69-97c841c5f6a9)
@@ -27,8 +27,8 @@ https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 ![image](https://github.com/ClassSync/K12/assets/16409151/f153899f-77c9-4208-835c-02658259fb8e)
 
 #### B. 통합 계정 SSO 구축하기   
-   **학교 전용 Google 테넌트를 보유하고 있어야 함**   
-   **통합 계정에 연결할 도메인에 대해 DNS 레코드 변경이 가능해야 함**   
+   **학교 전용 Google 테넌트를 Microsoft 365 테넌트를 보유하고 있어야 합니다.**   
+   **통합 계정에 연결할 도메인에 대해 DNS 레코드 변경이 가능해야 합니다.**   
    **2023년 11월 30일 까지 통합 계정 SSO 구축을 무료 지원할 예정입니다. 무료 지원은 당사 사정에 따라 조기 종료될 수 있습니다.**  
    **구축문의 : hjshin@dongseo.com**
 
