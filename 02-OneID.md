@@ -6,14 +6,14 @@
 
 #### A. 통합 계정 만들기  
 
-1. 프로그램 설치 및 설정  
-1.1 프로그램 설치  
+1. 앱 설치 및 초기설정  
+1.1 클래스싱크 앱 설치  
 https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 ![image](https://github.com/ClassSync/K12/assets/16409151/9985fbd4-25e1-4b34-bead-94d5867614d1)
-1.2 학교 관리자 계정으로 로그인
-![image](https://github.com/ClassSync/K12/assets/16409151/1030a6bf-b73e-4406-b017-08474f03e8bf)
-1.3 학년도, 소속 교육청, 학교명 검색후 학교를 선택하고 학교도메인 사용등록, 초기 비번 설정
-![image](https://github.com/ClassSync/K12/assets/16409151/e92b1f76-8bf0-4770-8ba6-ede7125ab7cf)
+1.2 [School Admin Login] 버튼 선택 후 학교 관리자 계정으로 로그인
+![image](https://github.com/ClassSync/K12/assets/16409151/4d00fbb6-e885-4c76-9a32-6116c066dd27)
+1.3 [설정] 메뉴 선택 후 설정 화면에서 학년도, 소속 교육청, 학교명 검색후 학교를 선택하고 학교도메인 사용등록, 초기 비번 설정
+![image](https://github.com/ClassSync/K12/assets/16409151/561bd4e3-b441-4498-a685-30b614c85c53)
 
 2. 통합 계정 만들기   
 2.1 통합 계정 가져오기 (클라우드에 저장된 기존 계정 정보를 가져와서 정리합니다.)
