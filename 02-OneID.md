@@ -26,13 +26,22 @@ https://apps.microsoft.com/store/detail/classsync/9PJ792P907Q9?hl=ko-kr&gl=kr
 **Microsoft 365에 계정이 생성됩니다. 기존 계정은 표시 이름을 변경할 수 있습니다. Google Workspace와 SSO를 구성한 경우 계정이 동기화 됩니다.**   
 ![image](https://github.com/ClassSync/K12/assets/16409151/f153899f-77c9-4208-835c-02658259fb8e)
 
-#### B. 통합 계정 SSO 구축하기   
-   **학교 전용 Google 테넌트와 Microsoft 365 테넌트를 보유하고 있어야 합니다.**   
-   **통합 계정에 연결할 도메인에 대해 DNS 레코드 변경이 가능해야 합니다.**   
-   **2023년 11월 30일 까지 통합 계정 SSO 구축을 무료 지원할 예정입니다. 무료 지원은 당사 사정에 따라 조기 종료될 수 있습니다.**  
-   **구축문의 : hjshin@dongseo.com**
+#### B. 통합 계정 SSO 구축하기
+
+> **학교 전용 Google 테넌트와 Microsoft 365 테넌트를 보유하고 있어야 합니다.**   
+> **통합 계정에 연결할 도메인에 대해 DNS 레코드 변경이 가능해야 합니다.**   
+> **2023년 11월 30일 까지 통합 계정 SSO 구축을 무료 지원할 예정입니다. 무료 지원은 당사 사정에 따라 조기 종료될 수 있습니다.**  
+> **통합 계정 SSO 무료 구축문의 : hjshin@dongseo.com**
+
+
+> **크롬 OS가 설치된 장치에 통합 아이디로 로그인**
+
 
 https://github.com/ClassSync/K12/assets/16409151/96aea36f-a44d-4f9f-b24e-350eabd42f2f
+
+
+> **윈도우 OS가 설치된 장치에 통합 아이디로 로그인**
+
 
 https://github.com/ClassSync/K12/assets/16409151/4d9798e6-7cf0-4883-97f8-d004c5127cf8
 
