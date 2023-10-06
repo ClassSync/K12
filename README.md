@@ -1,18 +1,18 @@
-#  ClassSync for K12 (School Information System)
-## Microsoft Teams에 블랜디드 학습환경 만들기 
+# ClassSync for K12 Microsoft Teams에 AI 학습환경 만들기
+### 교육용 Microsoft 365 계정과 Google Workspace 계정을 하나로 통합할 수 있습니다.
 ### ClassSync는 나이스 교육정보 개방포털에서 제공하는 학교 정보와 연동됩니다.
 
 1. ClassSync 프로그램 설치    
 Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9    
 
-2. ClassSync로 온라인 학급 구성   
+2. ClassSync 로 온라인 학급 구성   
    
 
-   교사는 ClassSync를 통해 온라인 교실을 빠르게 구성하고 쉽게 관리합니다. ( 목표처리시간 5분 이내 ) 
+   교사는 ClassSync를 통해 온라인 교실을 빠르게 구성하고 쉽게 관리합니다.  
    
-   학년 변경시 진급처리를 쉽고 빠르게 처리합니다. ( 목표처리시간 5분 이내 )
+   학년 변경시 진급처리를 쉽고 빠르게 처리합니다. 
    
-   과목별 시수 배당표를 기준으로 학교 전체 수업 목록을 관리합니다. ( 목표처리시간 5 분 이내 )
+   과목별 시수 배당표를 기준으로 학교 전체 수업 목록을 관리합니다. 
    
    교육용 교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
        
