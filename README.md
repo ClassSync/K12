@@ -42,13 +42,13 @@
 
   ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
 
-**6. ClassSync for K12 연동**   
-> 6.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.   
-> https://learn.microsoft.com/ko-kr/schooldatasync   
-> 6.2. OEA(Open Education Analytics)   
-> https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics   
-> 6.3. Microsoft 365 학교 관리자 계정   
-> 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.
+**6. ClassSync for K12 와 Microsoft 365 연동**   
+> 6.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.  
+> https://learn.microsoft.com/ko-kr/schooldatasync  
+> 6.2. OEA(Open Education Analytics)  
+> https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics  
+> 6.3. Microsoft 365 학교 관리자 계정  
+> 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.  
 
 **7. 프로그램 사용관련**    
 > 7.1. ClassSync 앱을 처음 사용하는 학교는 학교당 1회 15일 동안 무료로 제공되는 기능과 원격구축지원서비스 및 기술지원서비스로 마이크로소프트 인공지능 기반 학습환경을 구축할 수 있습니다.   
