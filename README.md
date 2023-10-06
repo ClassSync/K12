@@ -1,7 +1,7 @@
 # ClassSync for K12
 - #### Microsoft AI 기반 학습환경을 만들 수 있습니다.
 - #### 나이스 교육정보 개방포털에서 제공하는 학교 정보를 사용할 수 있습니다.
-- #### Microsoft 365 계정과 Google Workspace 계정을 하나로 통합하고 SSO를 사용할 수 있습니다.
+- #### Microsoft 365 계정과 Google Workspace 계정을 하나로 통합 관리하고 SSO를 사용할 수 있습니다.
 - #### 학교 데이터는 클라우드 서비스 공급자(Microsoft, Google)가 제공하는 저장소 이외 다른 외부 저장소를 사용하지 않습니다.
 # 
 ### 클래스싱크로 Microsoft Teams에 AI 기반 학습환경 만들기
