@@ -1,5 +1,5 @@
 # ClassSync for K12
-- #### Microsoft AI 기반 학습환경을 만들수 있습니다.
+- #### Microsoft AI 기반 학습환경을 만들 수 있습니다.
 - #### 나이스 교육정보 개방포털에서 제공하는 학교 정보를 사용할 수 있습니다.
 - #### Microsoft 365 계정과 Google Workspace 계정을 하나로 통합하고 SSO를 사용할 수 있습니다.
 - #### 학교 데이터는 클라우드 서비스 공급자(Microsoft, Google)가 제공하는 저장소 이외 다른 외부 저장소를 사용하지 않습니다.
@@ -19,9 +19,9 @@
 ![image](https://user-images.githubusercontent.com/16409151/215871938-54b7a3d4-409d-4e91-91e2-8b1bb43a6821.png)
    
 
-**3. 학교데이터동기화 ( SDS : Microsoft School Data Sync )**  
+**3. 학교 데이터 동기화 ( SDS : Microsoft School Data Sync )**  
 
-> 마이크로소프트가 제공하는 학교데이터동기화(SDS) 기능을 통해 온라인 학급이 구성되고 구성 속성과 함께 디지털 학습활동이 SDS Data Lake 저장됩니다.
+> 마이크로소프트가 제공하는 학교 데이터 동기화(SDS) 기능을 통해 온라인 학급이 구성되고 구성 속성과 함께 디지털 학습활동이 SDS Data Lake 저장됩니다.
 > SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 교육청 단위 디지털 학습활동을 분석할 수 있습니다.
    
    ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
