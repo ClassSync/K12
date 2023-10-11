@@ -1,5 +1,5 @@
 # ClassSync for K12 설치
-## Microsoft Store 에서 클래스싱크 앱을 다운받아 학교관리자 컴퓨터에 설치.  
+## Microsoft Store 에서 클래스싱크 앱을 다운받아 컴퓨터에 설치합니다.  
 > **설치 URL : https://www.microsoft.com/store/apps/9PJ792P907Q9**     
 
 ![image](https://github.com/ClassSync/K12/assets/16409151/c86317ce-dab3-479f-8744-e9bc42c739f1)
