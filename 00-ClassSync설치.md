@@ -3,6 +3,7 @@
 > **설치 URL : https://www.microsoft.com/store/apps/9PJ792P907Q9**     
 
 ![image](https://github.com/ClassSync/K12/assets/16409151/c86317ce-dab3-479f-8744-e9bc42c739f1)
+![image](https://github.com/ClassSync/K12/assets/16409151/c5f17888-bca4-44c7-ab6b-44173172c1c5)
 
 ## 제공 기능 안내  
 > **[A. 통합 계정 만들기] 기능이 제한없이 무료로 제공됩니다.**  
