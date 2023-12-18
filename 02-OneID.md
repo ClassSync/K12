@@ -13,7 +13,7 @@
 > ![image](https://github.com/ClassSync/K12/assets/16409151/9985fbd4-25e1-4b34-bead-94d5867614d1)
 > 1.2 [School Admin Login] 버튼 선택 후 학교 관리자 계정으로 로그인
 > ![image](https://github.com/ClassSync/K12/assets/16409151/beee0887-d0e1-4e36-8fd2-c62ceb5f5673)   
-> 1.3 [설정] 메뉴 선택 후 설정 화면에서 학년도, 소속 교육청, 학교명 검색 후 학교를 선택하고 학교도메인 사용등록, GMOOC를 사용승인, 초기 비번 설정
+> 1.3 앱 화면 좌측하단 [설정] 메뉴 선택 후 설정 화면에서 학년도, 소속 교육청, 학교명 검색 후 학교를 선택하고 학교도메인 사용등록, GMOOC를 사용승인, 초기 비번 설정
 > ![image](https://github.com/ClassSync/K12/assets/16409151/aaa15489-69da-4cda-92a4-e4176d8f3cc3)   
 
 **2. 통합 계정 만들기**     
