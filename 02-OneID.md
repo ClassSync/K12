@@ -1,7 +1,12 @@
 # 클라우드 통합 계정 만들기
+### 통합 계정 만들기 설명 영상 바로가기
+> https://youtu.be/rP02B_yTI-c   
+![작업순서_1](https://github.com/ClassSync/K12/assets/16409151/48176113-f951-40c6-b318-801998693307)   
+ 
 ### 교육용 Microsoft 365 계정과 Google Workspace 계정을 하나로 통합
 **통합 계정 SSO 구축을 완료한 경우 교육용 Microsoft 365 계정으로 교육용 서비스와 콘텐츠 및 디바이스에 SSO 됩니다.**
-![작업순서_1](https://github.com/ClassSync/K12/assets/16409151/48176113-f951-40c6-b318-801998693307)
+![image](https://github.com/ClassSync/K12/assets/16409151/3e9b1cad-5181-4bd5-a719-034fe9565bfa)
+
 
 
 ### A. 통합 계정 만들기  
