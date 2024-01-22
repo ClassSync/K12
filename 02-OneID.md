@@ -28,7 +28,8 @@
 > 2.3 액셀에서 CSV 파일을 편집하고 저장 **(CSV 쉼표로 분리)** , 편집이 완료된 파일 [Read CSV File] 또는 CSV 가져오기    
 > ![image](https://github.com/ClassSync/K12/assets/16409151/ab0eb25d-c581-47c3-b9d9-c041439e682a)   
 > 2.4 통합 계정 만들기   
-> **OneID 목록을 기준으로 MS 계정 만들기를 선택하면 Microsoft 365에 계정이 생성되고 구글 계정 만들기를 선택하면 구글 계정이 생성됩니다. Google Workspace와 SSO를 구성한 경우 MS 계정 만들기를 선택하면 구글계정이 동기화(생성) 됩니다.**   
+> **OneID 목록을 기준으로 MS 계정 만들기를 선택하면 Microsoft 365에 계정이 생성되고 구글 계정 만들기를 선택하면 구글 계정이 생성.**   
+> **Google Workspace와 SSO를 구성한 경우 MS 계정 만들기를 선택하면 구글계정이 동기화(생성) 됩니다.**      
 > **이미 계정이 있고 학번과 이름이 변경된 경우 변경된 내용으로 표시이름이 갱신됩니다.**       
 > ![image](https://github.com/ClassSync/K12/assets/16409151/964c477f-dab4-4d98-a96f-bfe72b09ea20)
 
