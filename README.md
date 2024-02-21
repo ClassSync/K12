@@ -8,6 +8,8 @@
 
 ## Microsoft Teams와 Gooogle Classroom에 인공지능 기반 학습환경 만들기
 
+### 인공지능 학습환경 만들기 설명 영상 바로가기 : https://youtu.be/s2loKB0zlx8 
+
 **1. ClassSync 프로그램 설치**    
 > **Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9**    
 
@@ -38,7 +40,6 @@
 > SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 교육청 단위 디지털 학습활동을 분석할 수 있습니다.
    
    ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
-
 
 
 **6. Open Education Analytics**
