@@ -1,7 +1,8 @@
 ##  Google Workspace 앱 액세스 제어
 ### Google Workspace에 ClassSync 앱이 연결되도록 설정
 
-####바로가기 : https://admin.google.com/ac/owl/list?tab=apps
+#### Google 관리콘솔 > 보안 > 엑세스 및 데이터 관리 > API 관리 > 타사 앱 엑세스 관리를 선택하면 표시되는 화면에서 ClassSync 앱 엑세스 변경 
+#### 바로가기 : https://admin.google.com/ac/owl/list?tab=apps
 
 ![image](https://github.com/ClassSync/K12/assets/16409151/ca1d8d21-8450-4ec0-a257-56a5927fbd25)
 
