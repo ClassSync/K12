@@ -12,8 +12,7 @@
 ### 2. Microsoft Store 에서 클래스싱크 앱을 설치 할수 없는 경우 설치파일을 다운받아 앱을 설치합니다.
 
 ### 개발사에서 제공하는 설치파일 다운로드 경로
-> #### https://dsis-my.sharepoint.com/:u:/g/personal/hjshin_dsis_kr/EfoFRck302NMq4DfoaXyCkcBtyYto3GFHT3bYwRQDy_uQg?e=vIJifo       
-
+> #### https://dsis-my.sharepoint.com/:u:/g/personal/hjshin_dsis_kr/EVb_g_WFT5dKtPHiV9LQ4hQB-RIzG8j78apmHtXQsQSzuQ?e=W7dUZA       
 ### 다운로드 파일 설치 안내
 ### windows 11 에 설치
 >  **윈도우 설정 > 개인 정보 및 보안 > 개발자용 > 개발자 모드 켬, PowerShell 켬**
