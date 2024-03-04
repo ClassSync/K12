@@ -22,7 +22,8 @@ whilespace 명단 만들기를 선택하면 목록에 명단이 표시됩니다.
 ![image](https://github.com/ClassSync/K12/assets/16409151/baa05193-19b8-4837-8c28-017df6600247)   
 규칙 적용을 선택하고 명단만들기를 실행하면 아이디에 학교구분과 나이스학교코드가 추가됩니다.
 ![image](https://github.com/ClassSync/K12/assets/16409151/a8c8249f-71a0-40fb-b0bf-12475d6dc328)
-
+CSV 내보내기를 선택하면 목록 화면에 표시된 명단을 CSV 파일로 내보낼 수 있습니다.
+![image](https://github.com/ClassSync/K12/assets/16409151/ad120f34-41c1-4932-ac68-40f99e4efdc2)
 
 
    
