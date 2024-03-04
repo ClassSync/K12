@@ -17,7 +17,7 @@
    ![image](https://github.com/ClassSync/K12/assets/16409151/bd7eb017-d950-4df0-8000-31f52ffb77c0)
 
 
-#### 3. 웨일 스메이스 명단 만들기   
+#### 3. 웨일 스패이스 명단 만들기   
 whilespace 명단 만들기를 선택하면 목록에 명단이 표시됩니다. 
 ![image](https://github.com/ClassSync/K12/assets/16409151/baa05193-19b8-4837-8c28-017df6600247)   
 규칙 적용을 선택하고 명단만들기를 실행하면 아이디에 학교구분과 나이스학교코드가 추가됩니다.
