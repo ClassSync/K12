@@ -26,5 +26,5 @@ CSV 내보내기를 선택하면 목록 화면에 표시된 명단을 CSV 파일
 ![image](https://github.com/ClassSync/K12/assets/16409151/ad120f34-41c1-4932-ac68-40f99e4efdc2)
 
 
-   
+#### 웨일 헬프 센터 : 사용자 추가 및 관리   
 **https://help.whale.naver.com/ko/whalespace/admin/add-and-manage-users** 
