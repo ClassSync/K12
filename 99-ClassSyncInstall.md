@@ -3,7 +3,7 @@
 ### 1. Microsoft Store 에서 클래스싱크 앱 설치를 권장합니다.  
 > ### Microsoft Store 설치 URL : https://www.microsoft.com/store/apps/9PJ792P907Q9  
 
-> **ClassSync Version 1.3.5 ( 2024년 3월 6일 )**  
+> **ClassSync Version 1.3.6 ( 2024년 3월 10일 )**  
 > **기능 개선 사항 : 웨일 스페이스 명단 만들기 기능 추가, 교사그룹과 학생그룹 만들기, 사용자 아이디 접두어 설정 기능 추가, 관리자 도메인과 같은 도메인 사용자 만 삭제되도록 기능 변경, 사용자 도메인 일괄변경, 구글 계정 조직단위 일괄변경 기능 추가**  
 > ![image](https://github.com/ClassSync/K12/assets/16409151/c3f3d58b-f8f4-4ba2-9ad6-6864cef30f73)
 
