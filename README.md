@@ -43,6 +43,7 @@
 
 **6. 나이스 학사일정으로 Calendar 만들기**
 > Microsoft Outlook Calendar
+![image](https://github.com/ClassSync/K12/assets/16409151/341500d5-a442-438c-8662-003d65f396dd)
 
 > Google Calendar
 ![image](https://github.com/ClassSync/K12/assets/16409151/1ebbe600-8a48-4c7e-aef1-cff584d9f78b)
