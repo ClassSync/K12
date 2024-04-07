@@ -41,3 +41,6 @@
 
 >#### 3.2 복사가 완료되면 결과 화면이 표시됨 
 >![image](https://github.com/ClassSync/K12/assets/16409151/3e6465a3-8382-45d9-921d-59c6517d296d)
+
+### Microsoft 참고링크
+https://support.microsoft.com/en-us/office/transfer-files-to-your-personal-onedrive-with-the-mover-transfer-wizard-7dbda93c-71e6-483f-8914-ad445554cd31
