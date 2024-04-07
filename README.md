@@ -41,7 +41,10 @@
    
    ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
 
-**6. 나이스 학사일정으로 Microsoft Outlook Calendar와 Google Calendar 만들기**
+**6. 나이스 학사일정으로 Calendar 만들기**
+> Microsoft Outlook Calendar
+
+> Google Calendar
 ![image](https://github.com/ClassSync/K12/assets/16409151/1ebbe600-8a48-4c7e-aef1-cff584d9f78b)
 
 
