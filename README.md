@@ -11,10 +11,10 @@
 - ### 카카오 오픈채팅방 바로가기 : https://open.kakao.com/o/go66nebg 참여코드 class
 
 ## 우리 학교 인공지능 학습환경 만들기    
-### 1. ClassSync 프로그램 설치    
+### 1. ClassSync 앱 설치    
 > **Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9**   
 
-### 2. ClassSync 로 인공지능 기반 학습환경 만들기   
+### 2. ClassSync 앱으로 인공지능 기반 학습환경 만들기   
    
 > 학교 관리자는 Microsoft 365 학교 계정과 Google Workspace 학교 계정을 하나로 만들어 통합 관리하고 싱글사인온을 구성할 수 있습니다.   
 > ClassSync를 이용하여 Microsoft Teams와 Google Classroom에 인공지능 기반 학습환경을 빠르게 구성하고 관리합니다.    
