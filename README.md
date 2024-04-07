@@ -1,5 +1,5 @@
 # ClassSync for K12
-- ### 클래스싱크 무료 기능으로 Microsoft 365 계정과 Google Workspace 계정을 하나로 통합 관리하고 싱글사인온을 구성할 수 있습니다.
+- ### Microsoft 365 계정과 Google Workspace 계정을 하나로 통합 관리하고 싱글사인온을 구성할 수 있습니다.
 - ### Microsoft Teams, Google Classroom에 인공지능 기반 학습환경을 만들 수 있습니다.
 - ### 나이스 교육정보 개방포털에서 제공하는 학교 정보와 수업 정보를 사용하여 수업 팀을 빠르게 구성할 수 있습니다.
 
