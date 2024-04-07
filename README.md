@@ -6,11 +6,11 @@
 ## 개인정보보호
 - ### 클래스싱크 앱은 교사와 학생의 가입정보를 외부 저장소에 모아 보관하지 않아 개인정보유출 위험이 없습니다.
 
-## Microsoft Teams와 Gooogle Classroom에 인공지능 기반 학습환경 만들기
-
+## 클래스싱크 앱 사용설명 및 커뮤니티   
 - ### 인공지능 학습환경 만들기 설명 영상 바로가기 : https://youtu.be/s2loKB0zlx8 
 - ### 카카오 오픈채팅방 바로가기 : https://open.kakao.com/o/go66nebg 참여코드 class
 
+## 우리 학교 인공지능 학습환경 만들기    
 ### 1. ClassSync 프로그램 설치    
 > **Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9**   
 
