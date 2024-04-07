@@ -13,7 +13,7 @@
 >#### 1.2 Step 1: Select source 화면에서 Authorize New Connector 선택
 ><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/37932e24-c427-4341-bc69-95a186a32f71">
 
->#### 1.3 OneDrive for Business(Single User) 선택
+>#### 1.3 OneDrive for Business(Single User) Authorize 선택
 ><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/4115e17b-a6c8-4b1b-b0fa-fa03a5601bf8">
 
 >#### 1.4 Display Name에 기존학교를 입력하고 Authorize 선택
@@ -26,7 +26,7 @@
 >#### 2.1 Step 2: Select destination 화면에서 Authorize New Connector 선택
 ><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/8553f24d-0c14-48f4-919e-b66a64e65376">
 
->#### 2.2 OneDrive for Business (Single User) 선택
+>#### 2.2 OneDrive for Business (Single User) Authorize 선택
 ><img width="1108" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/929ac529-1dcc-4143-81bf-129be3f75db1">
 
 >#### 2.3 Display Name을 새로운학교를 입력하고 Authorize 선택
