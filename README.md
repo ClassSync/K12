@@ -22,28 +22,29 @@
 > 교육용 교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
  
 ![image](https://github.com/ClassSync/K12/assets/16409151/813ddd2d-3610-4199-9045-f0ad0ac3717a)
+
+**3. 나이스 학사일정으로 Calendar 만들기**
+> 나이스 학사일정으로 Microsoft 365 와 Google Workspace에 학사일정 Calendar를 만들고 구성원에게 공유할 수 있습니다.
+<img width="1370" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/9a1e9577-e7cf-4185-87d4-f00ae6f73a0d">
  
-**3. 다양한 경험을 제공하는 인공지능 기반 학습환경 만들기**   
+**4. 다양한 경험을 제공하는 인공지능 기반 학습환경 만들기**   
 
 ![image](https://github.com/ClassSync/K12/assets/16409151/126d0185-f74c-4e79-945c-28c29a57f827)
 
-**4. 구글 클래스룸 수업 팀 동기화**
+**5. 구글 클래스룸 수업 팀 동기화**
 > ClassSync가 제공하는 구글 클래스룸 동기화 기능을 통해 Classroom 일괄 생성, 보관, 삭제할 수 있습니다.   
 > 학급 단위 Classroom과 수업 단위 Classroom 에 학생이 일괄 등록됩니다.
      
 ![Classroom1](https://github.com/ClassSync/K12/assets/16409151/81d0ef68-2b91-4b95-87e9-ede21156350e)
 
 
-**5. 팀즈 수업 팀 동기화 ( SDS : Microsoft School Data Sync )**  
+**6. 팀즈 수업 팀 동기화 ( SDS : Microsoft School Data Sync )**  
 
 > 마이크로소프트가 제공하는 학교 데이터 동기화(SDS) 기능을 이용해 수업 팀을 일괄 구성하고 구성 속성과 함께 디지털 학습활동을 SDS Data Lake에 저장할 수 있습니다.
 > SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 교육청 단위 디지털 학습활동을 분석할 수 있습니다.
    
    ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
 
-**6. 나이스 학사일정으로 Calendar 만들기**
-> 나이스 학사일정으로 Microsoft 365 와 Google Workspace에 학사일정 Calendar를 만들고 구성원에게 공유할 수 있습니다.
-<img width="1370" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/9a1e9577-e7cf-4185-87d4-f00ae6f73a0d">
 
 
    
