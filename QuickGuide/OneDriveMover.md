@@ -8,7 +8,7 @@
 ## Mover 전송 마법사 실행 ( https://app.mover.io )
 ### Step 1 : Select source (기존 학교 계정으로 로그인) 
 #### 1.1 Mover 앱 로그인
-<img width="939" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/b647ab1a-f11d-4093-b988-cea54a0c5933">
+<img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/b647ab1a-f11d-4093-b988-cea54a0c5933">
 
 #### 1.2 Step 1 : Select source 화면에서 Authorize New Connector 선택
 <img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/37932e24-c427-4341-bc69-95a186a32f71">
