@@ -45,6 +45,7 @@
 > 나이스 학사일정으로 Microsoft 365 와 Google Workspace에 학사일정 Calendar를 만들고 구성원에게 공유할 수 있습니다.
 <img width="1367" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/a8e2f779-96ad-43ae-b382-c03147dc525d">
 
+   
 **7. Open Education Analytics**
 
    <<빅데이터로 학습하기: 교육의 미래 Learning with Big Data The Future of Education >>  
