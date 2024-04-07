@@ -43,7 +43,8 @@
 
 **6. 나이스 학사일정으로 Calendar 만들기**
 > 나이스 학사일정으로 Microsoft 365 와 Google Workspace에 학사일정 Calendar를 만들고 구성원에게 공유할 수 있습니다.
-<img width="1367" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/a8e2f779-96ad-43ae-b382-c03147dc525d">
+<img width="1370" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/9a1e9577-e7cf-4185-87d4-f00ae6f73a0d">
+
 
    
 **7. Open Education Analytics**
