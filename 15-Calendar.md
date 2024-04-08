@@ -1,4 +1,4 @@
-# 구성원에게 학사일정 Calendar 공유
+# 학교 구성원에게 학사일정 Calendar 공유
 ## 나이스 학사일정을 Microsoft 365와 Google Workspace Calendar에 공유    
 ### 1. 학교일정 화면에서 나이스 학사일정 가져오기 > Microsoft 또는 Google 학교일정 만들기 실행 
 <img width="800" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/61594a02-29b5-404c-aed5-965b6b08e42b">
