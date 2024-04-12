@@ -15,4 +15,5 @@
 <img width="800" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/701a0e15-c82c-46b8-86ab-c8c6b6af2121">
 
 ### 3.2 Google Calendar 화면 다른 캘린터에서 학사일정 선택  
-<img width="800" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/9ec5fdee-43de-4529-a18c-c14a7067bb95">
+<img width="749" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/34d1f676-8904-43ee-a6a8-1d4f7190c260">
+
