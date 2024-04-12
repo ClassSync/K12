@@ -17,4 +17,11 @@
 ### 3.2 Google Calendar 화면 다른 캘린터에서 학사일정 선택  
 <img width="800" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/34d1f676-8904-43ee-a6a8-1d4f7190c260">
 
+### 3.3 Google Calendar App 동기화
+<img width="400" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/0a63f491-5d36-47e5-b2df-0a9c9204af27">
+<img width="400" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/66a9206c-36e5-4c52-a7bb-85ecc3a507cc">
+<img width="400" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/feee1190-0e4b-417e-9072-4b35225ecce8">
+<img width="400" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/f0733f01-5d85-4dcb-9516-7fae8f75b017">
+
+
 
