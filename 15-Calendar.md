@@ -17,3 +17,4 @@
 ### 3.2 Google Calendar 화면 다른 캘린터에서 학사일정 선택  
 <img width="800" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/34d1f676-8904-43ee-a6a8-1d4f7190c260">
 
+
