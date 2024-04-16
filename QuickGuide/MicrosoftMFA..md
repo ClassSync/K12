@@ -35,3 +35,10 @@ https://www.microsoft.com/ko-kr/security/mobile-authenticator-app
 
 #### 2.9 성공 화면에서 완료 선택 
 <img width="566" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/74c3c858-e906-4e93-a42b-26944cfe16af">
+
+### 3. 휴대폰 인증
+<img width="566" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/406ce01e-1ad7-4894-8fd8-7a3631ae5294">
+<img width="566" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/91ddba29-dec9-4d3c-af11-145698c8228e">   
+<img width="566" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/8c4b39a2-bc99-4c2d-98e8-3448e99b00ed">
+<img width="566" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/06969efb-5515-4618-a524-47a6b8a16317">
+
