@@ -1,8 +1,8 @@
 # 사용자 보안 설정
 ## 사용자가 2차 인증등 보안 설정으로 로그인에 어려움이 있는 경우 아래의 설정을 변경
-### * 다단계 인증을 해제하는 경우 관리자 암호 변경 https://go.microsoft.com/fwlink/?linkid=2224198
 
 ### 1. 보안 기본값 변경 (다단계 인증 해제)
+#### * 다단계 인증을 해제하는 경우 관리자 암호 변경 https://go.microsoft.com/fwlink/?linkid=2224198
 Entra 관리 센터 화면에서 개요 > 속성 탭에서 하단의 보안 기본값에서 보안 기본값 관리를 선택하면 표시되는 우측 화면에서 **보안 기본값 비활성화(권장하지 않음)** 선택 후 저장    
 바로가기 : https://entra.microsoft.com/#blade/Microsoft_AAD_ConditionalAccess/SecurityDefaults?Microsoft_AAD_IAM_legacyAADRedirect=true
 ![image](https://github.com/ClassSync/K12/assets/16409151/6ca63aaa-9120-4de0-a6f6-803f0c0aaf49)
