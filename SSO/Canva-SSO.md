@@ -5,7 +5,8 @@
 > 사용자 속성 업데이트 - Azure AD/Entra ID를 통해 사용자 프로필에 적용된 업데이트는 Canva로 푸시됩니다.   
 > 사용자 비활성화 - Azure AD/Entra ID를 통해 사용자를 비활성화하면 Canva에서 사용자가 잠깁니다.   
 > 그룹 만들기 - Azure AD/Entra ID에서 만든 그룹은 Canva 브랜드에서 그룹으로 Canva에서 만들 수도 있습니다.   
-> Update group - Azure AD/Entra ID를 통해 그룹 프로필 또는 멤버십 변경된 업데이트는 Canva로 푸시됩니다.   
+> Update group - Azure AD/Entra ID를 통해 그룹 프로필 또는 멤버십 변경된 업데이트는 Canva로 푸시됩니다.
+    
 https://www.canva.com/help/scim-provisioning-azuread-entraid/?query=%EC%B6%9C%EC%84%9D%EB%B6%80%20%EB%8F%99%EA%B8%B0%ED%99%94
 
 ### Canva SSO 설정
