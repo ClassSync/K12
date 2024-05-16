@@ -2,7 +2,7 @@
 ### Canva SSO 설정
 https://www.canva.com/help/saml-configuration-azuread-entraid-edu/?query=%EC%B6%9C%EC%84%9D%EB%B6%80%20%EB%8F%99%EA%B8%B0%ED%99%94    
 #### 엔터프라이즈 애플리케이션 > + 새로운 애플리케이션 추가   
-https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AppGalleryBladeV2?Microsoft_AAD_IAM_legacyAADRedirect=true   
+https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview?Microsoft_AAD_IAM_legacyAADRedirect=true      
 ![image](https://github.com/ClassSync/K12/assets/16409151/e7860e73-58eb-423f-aa42-be09de535925)
 
 ### Canva 출석부 동기화
