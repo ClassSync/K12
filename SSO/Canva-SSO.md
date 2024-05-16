@@ -1,6 +1,6 @@
 ## 교육용 Canva SSO
 ### Canva 출석부 동기화
-지원되는 프로비저닝 기능
+#### 지원되는 프로비저닝 기능   
 사용자 만들기 - Canva App에 할당된 Azure AD/Entra ID의 사용자가 Canva의 조직 구성원으로 추가됩니다.   
 사용자 속성 업데이트 - Azure AD/Entra ID를 통해 사용자 프로필에 적용된 업데이트는 Canva로 푸시됩니다.   
 사용자 비활성화 - Azure AD/Entra ID를 통해 사용자를 비활성화하면 Canva에서 사용자가 잠깁니다.   
