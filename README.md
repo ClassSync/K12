@@ -67,18 +67,18 @@
   ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
 
 ### 9. ClassSync for K12 와 Microsoft 365 Google Workspace 연동   
-> 8.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.  
+> 9.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.  
 > https://learn.microsoft.com/ko-kr/schooldatasync     
-> 8.2. OEA(Open Education Analytics)  
+> 9.2. OEA(Open Education Analytics)  
 > https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics    
-> 8.3. Microsoft 365, Google Workspace 학교 관리자 계정  
+> 9.3. Microsoft 365, Google Workspace 학교 관리자 계정  
 > 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.   
 > Microsoft 365, Google Workspace 싱글사인온 구성은 테넌트 1:1 로 구성됩니다.
 
 ### 10. 프로그램 사용관련    
-> 9.1. 모든 학교는 ClassSync에서 무료로 제공하는 통합 계정 관리 기능을 통해 Microsoft 365와 Google Workspace 에 학교 계정을 일괄 생성하고 관리하고 싱글사인온을 구성할 수 있습니다.   
-> 9.2. ClassSync 앱을 처음 사용하는 학교는 학교당 1회 30일 동안 유료로 제공되는 기능과 원격구축지원서비스를 통해 마이크로소프트 팀즈와 구글 클래스룸에 인공지능 기반 학습환경을 구축할 수 있습니다.   
-> 9.3. 1년간 원격구축지원서비스가 포함된 유료 라이선스를 학교장터에서 1년 단위로 구매할 수 있습니다. 클래스싱크 S2B 물품번호 202302165821533 https://s2b.kr      
+> 10.1. 모든 학교는 ClassSync에서 무료로 제공하는 통합 계정 관리 기능을 통해 Microsoft 365와 Google Workspace 에 학교 계정을 일괄 생성하고 관리하고 싱글사인온을 구성할 수 있습니다.   
+> 10.2. ClassSync 앱을 처음 사용하는 학교는 학교당 1회 30일 동안 유료로 제공되는 기능과 원격구축지원서비스를 통해 마이크로소프트 팀즈와 구글 클래스룸에 인공지능 기반 학습환경을 구축할 수 있습니다.   
+> 10.3. 1년간 원격구축지원서비스가 포함된 유료 라이선스를 학교장터에서 1년 단위로 구매할 수 있습니다. 클래스싱크 S2B 물품번호 202302165821533 https://s2b.kr      
 
 ### 제품문의 동서정보시스템 classsync@dongseo.com
 ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 함께 동행하겠습니다
