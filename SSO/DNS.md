@@ -18,5 +18,6 @@
 > TXT	"v=spf1 include:_spf.google.com include:spf.protection.outlook.com -all"	 0
 >         
 
-#### o.shinhan.ac.kr 참고 이미지
-![image](https://github.com/ClassSync/K12/assets/16409151/1f387e32-53d0-4b5a-9682-b4b47d69993c)
+#### 메일 동시수신 설정 m365.kr 참고 이미지
+![image](https://github.com/ClassSync/K12/assets/16409151/422274a9-dc3e-4d3c-a1c9-0ca0c7e30710)
+
