@@ -21,7 +21,7 @@
 #### 추가를 선택하고 학번, 성명, 아이디, 사용자 구분 입력   
 ![image](https://github.com/user-attachments/assets/abd4aa98-685d-4d76-982c-050533e86bbc)
 
-### 5. 생성할 개수만큼 복사 후 학번과 성명을 입력하고 OneID DB 명단 저장
+### 5. 생성할 학생 아이디 개수만큼 복사 후 학번과 성명을 입력하고 OneID DB 명단 저장
 ![image](https://github.com/user-attachments/assets/41dc3582-8080-48ec-ae34-c006688e7c93)
 
 ### 6. MS아이디 만들기, GMOOC ID 만들기 순서로 실행
