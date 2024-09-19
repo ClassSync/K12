@@ -26,3 +26,7 @@
 
 ### 6. MS아이디 만들기, GMOOC ID 만들기 순서로 실행
 ![image](https://github.com/user-attachments/assets/4e8c8333-955b-4d91-9a57-383e4439d706)
+
+### 7. 디지털지식마루에 MS아이디로 로그인 
+#### Office 365 로그인
+![image](https://github.com/user-attachments/assets/7387765c-b746-4b59-86a9-9f0139a630a0)
