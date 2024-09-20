@@ -45,8 +45,8 @@
 #### 9.2 학생 명단 관리 화면에서 학생 명단을 편집하고 명단 저장 ( CSV내보내기, CSV가져오기 )
 ![image](https://github.com/user-attachments/assets/8962baf2-fcdf-4fd1-ab7f-6845415d5a7c)
 #### 9.3 통합 아이디 만들기 화면에서 교사 학생 DB 명단 가져오기 실행 
-목록에서 우측 버튼 클릭 > 학생 선택 > MS 아이디 만들기, GMOOC  ID 만들기 실행
-![image](https://github.com/user-attachments/assets/ef17ffb7-1c19-461f-bf67-aa21c68d2a89)
+목록에서 우측 버튼 클릭 > 학생 선택 > MS 아이디 만들기 > GMOOC ID 만들기 실행   
+![image](https://github.com/user-attachments/assets/8b3fa610-38b4-4412-bd68-7d9a7f2ac5f9)
 
-
+### 10. 
 
