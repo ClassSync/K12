@@ -33,8 +33,20 @@
 
 ### 8. 기존 MS아이디를 GMOOC에 일괄 등록
 #### 8.1 통합 아이디 만들기 화면에서 MS 아이디 가져오기 선택
-#### 8.2 대상 아이디 일괄 선택을 위해 목록에서 마우스 오른쪽 버튼 클릭
+#### 8.2 대상 아이디 선택을 위해 목록에서 마우스 오른쪽 버튼 클릭하고 전체 취소 선택 
 ![image](https://github.com/user-attachments/assets/ecc2b2d8-6325-4bf3-9a24-ba1e442e33a9)
 #### 8.3 학번, 아이디, 성명으로 검색 후 대상 선택, GMOOC ID 만들기 실행
 ![image](https://github.com/user-attachments/assets/291947da-c81a-44d5-817a-c04765427d18)
+
+### 9. 학년 반을 기준으로 신규 MS 아이디를 만들고 GMOOC에 일괄 등록
+#### 9.1 교사 명단 관리 화면에서 나이스목록 가져오기 실행 
+학년 반에 학생수 입력 > 학생 명단 만들기 실행 > 교사 명단 저장
+![image](https://github.com/user-attachments/assets/cc97b91c-519c-4497-8a22-b0bf10330f54)
+#### 9.2 학생 명단 관리 화면에서 학생 명단을 편집하고 명단 저장 ( CSV내보내기, CSV가져오기 )
+![image](https://github.com/user-attachments/assets/8962baf2-fcdf-4fd1-ab7f-6845415d5a7c)
+#### 9.3 통합 아이디 만들기 화면에서 교사 학생 DB 명단 가져오기 실행 
+목록에서 우측 버튼 클릭 > 학생 선택 > MS 아이디 만들기, GMOOC  ID 만들기 실행
+![image](https://github.com/user-attachments/assets/ef17ffb7-1c19-461f-bf67-aa21c68d2a89)
+
+
 
