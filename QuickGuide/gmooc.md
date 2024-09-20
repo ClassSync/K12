@@ -48,5 +48,5 @@
 목록에서 우측 버튼 클릭 > 학생 선택 > MS 아이디 만들기 > GMOOC ID 만들기 실행   
 ![image](https://github.com/user-attachments/assets/8b3fa610-38b4-4412-bd68-7d9a7f2ac5f9)
 
-### 10. 
+
 
