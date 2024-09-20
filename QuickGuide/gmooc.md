@@ -17,8 +17,8 @@
 ### 3.2 선택 설정 : 설정 화면에서 초기비번, 아이디 접두어 설정
 ![image](https://github.com/user-attachments/assets/a6995af9-f2c7-4167-b2cb-9bb7c9fb39a3)
 
-### 4. 통합 아이디 만들기 
-#### 추가를 선택하고 학번, 성명, 아이디, 사용자 구분 입력   
+### 4. 신규 MS 아이디를 만들고 GMOOC에 일괄 등록 
+####  통합 아이디 만들기 화면에서 추가를 선택하고 학번, 성명, 아이디, 사용자 구분 입력   
 ![image](https://github.com/user-attachments/assets/abd4aa98-685d-4d76-982c-050533e86bbc)
 
 ### 5. 생성할 학생 아이디 개수만큼 복사 후 학번과 성명을 입력하고 OneID DB 명단 저장
@@ -30,3 +30,11 @@
 ### 7. 디지털지식마루에 새로 생성한 MS아이디로 로그인 
 #### https://gmooc.gbe.kr 화면에서 Office 365 로그인
 ![image](https://github.com/user-attachments/assets/7387765c-b746-4b59-86a9-9f0139a630a0)
+
+### 8. 기존 MS아이디를 GMOOC에 일괄 등록
+#### 8.1 통합 아이디 만들기 화면에서 MS 아이디 가져오기 선택
+#### 8.2 대상 아이디 일괄 선택을 위해 목록에서 마우스 오른쪽 버튼 클릭
+![image](https://github.com/user-attachments/assets/ecc2b2d8-6325-4bf3-9a24-ba1e442e33a9)
+#### 8.3 학번, 아이디, 성명으로 검색 후 대상 선택, GMOOC ID 만들기 실행
+![image](https://github.com/user-attachments/assets/291947da-c81a-44d5-817a-c04765427d18)
+
