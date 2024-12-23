@@ -19,3 +19,8 @@ Microsoft 365 관리 센터 화면에서 설정 > 조직설정을 선택하면 �
 ### 4. 다단계 인증을 해제한 경우 관리자 암호 변경 
 바로가기 : https://go.microsoft.com/fwlink/?linkid=2224198   
 ![image](https://github.com/ClassSync/K12/assets/16409151/ad948fa9-3aa5-4654-90ed-655a6dc5e1d9)
+
+### 5. 보안 기본값을 비활성화 하는 경우 모든 전역관리자에 다단계 인증을 필수 설정
+Microsoft Entra 관리 센터 화면 > 사용자 단위 다단계 인증 화면에서 전역관리자 검색 후 MFA 사용 선택
+바로가기 : https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView
+![image](https://github.com/user-attachments/assets/05c0a72e-6286-41ce-9420-db64d1ea25c5)
