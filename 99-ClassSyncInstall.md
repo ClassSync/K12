@@ -5,6 +5,8 @@
 
 > #### ClassSync Version 1.6.4 ( 2025년 2월 28일 )  
 > ****기능 개선 사항 : 클라우드 드라이브간 복사 기능 추가, 나이스 강의실 정보를 연결하여 Google Calendar에 강의실 만들기 기능추가, 교사 목록 관리화면에서 학생 목록 만들기 기능개선, 학사일정 Calendar 만들기 기능 추가, 비밀번호 일괄 재설정 기능 추가, 웨일 스페이스 명단 만들기 기능 추가, 교사그룹과 학생그룹 만들기, 사용자 아이디 접두어 설정 기능 추가, 관리자 도메인과 같은 도메인 사용자 만 삭제되도록 기능 변경, 사용자 도메인 일괄변경, 구글 계정 조직단위 일괄변경 기능 추가****  
+> <img width="670" alt="DriveMover" src="https://github.com/user-attachments/assets/32334798-ecaf-4a37-b1b7-12aacd1ebb75" />
+
 > ![image](https://github.com/ClassSync/K12/assets/16409151/68cfc972-f813-4682-bd50-6e039e70cf5e)
 
 
