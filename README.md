@@ -1,84 +1,63 @@
 # ClassSync for K12
-- ### Microsoft 365 계정과 Google Workspace 계정을 하나로 통합 관리하고 싱글사인온을 구성할 수 있습니다.
-- ### Microsoft Teams, Google Classroom에 인공지능 기반 학습환경을 만들 수 있습니다.
-- ### 나이스 교육정보 개방포털에서 제공하는 학교 정보와 수업 정보를 사용하여 수업 팀을 빠르게 구성합니다.
 
-## 개인정보보호
-- ### 클래스싱크 앱은 교사와 학생의 가입정보를 외부 저장소에 모아 보관하지 않아 개인정보유출 위험이 없습니다.
+## 우리 학교 인공지능 학습환경을 완성하는 핵심 솔루션
 
-## 클래스싱크 앱 사용설명 및 커뮤니티   
-- ### 인공지능 학습환경 만들기 설명 영상 바로가기 : https://youtu.be/s2loKB0zlx8 
-- ### 카카오 오픈채팅방 바로가기 : https://open.kakao.com/o/go66nebg 참여코드 class
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/949d1556-a962-42ab-9d36-91162f7aa52f" />
 
-## 우리 학교 인공지능 학습환경 만들기    
-### 1. ClassSync 앱 설치    
-> **Microsoft Store URL : https://www.microsoft.com/store/apps/9PJ792P907Q9**   
+#### [➡️ Microsoft Store에서 ClassSync 다운로드](https://apps.microsoft.com/detail/9PJ792P907Q9?referrer=appbadge&launch=true&mode=full)
+<div align="center">
+  <a href="https://apps.microsoft.com/detail/9PJ792P907Q9?referrer=appbadge&launch=true&mode=full" target="_blank">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download from the Microsoft Store"/>
+  </a>
+</div>
 
-### 2. ClassSync 앱으로 인공지능 기반 학습환경 만들기   
-   
-> 학교 관리자는 Microsoft 365 학교 계정과 Google Workspace 학교 계정을 하나로 만들어 통합 관리하고 싱글사인온을 구성할 수 있습니다.   
-> ClassSync를 이용하여 Microsoft Teams와 Google Classroom에 인공지능 기반 학습환경을 빠르게 구성하고 관리합니다.    
-> 새학기 신입생 등록, 진급 학생 표시이름 변경, 졸업생 삭제를 쉽고 빠르게 일괄 처리합니다.   
-> 과목별 시수 배당표를 기준으로 학교 전체 수업 목록을 관리합니다.   
-> 교육용 교사정책과 학생정책을 적용하여 안전한 학습환경을 유지합니다.
- 
-![image](https://github.com/ClassSync/K12/assets/16409151/813ddd2d-3610-4199-9045-f0ad0ac3717a)
+---
 
-### 3. 나이스 학사일정으로 Calendar 만들기
-> 나이스 학사일정으로 Microsoft 365 와 Google Workspace에 학사일정 Calendar를 만들고 구성원에게 공유할 수 있습니다.
-<img width="1370" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/9a1e9577-e7cf-4185-87d4-f00ae6f73a0d">
- 
-### 4. 다양한 경험을 제공하는 인공지능 기반 학습환경 만들기   
+ClassSync는 Microsoft 365(Teams)와 Google Workspace(Classroom) 두 가지 주요 교육 플랫폼의 **계정 및 수업 관리를 통합**하여, 학교 IT 관리자의 부담을 줄이고 교사와 학생의 디지털 학습 경험을 극대화하는 혁신적인 솔루션입니다.
 
-![image](https://github.com/ClassSync/K12/assets/16409151/126d0185-f74c-4e79-945c-28c29a57f827)
+ClassSync가 학교에 제공하는 핵심 가치와 장점은 다음과 같습니다.
 
-### 5. 구글 클래스룸 수업 팀 동기화
-> ClassSync가 제공하는 구글 클래스룸 동기화 기능을 통해 Classroom 일괄 생성, 보관, 삭제할 수 있습니다.   
-> 학급 단위 Classroom과 수업 단위 Classroom 에 학생이 일괄 등록됩니다.
-     
-![Classroom1](https://github.com/ClassSync/K12/assets/16409151/81d0ef68-2b91-4b95-87e9-ede21156350e)
+### 1. 🚀 관리 효율성 극대화 및 IT 부담 해소
 
+학교 운영에 필수적인 IT 관리 업무를 자동화하여 행정력을 절감하고, IT 담당자가 교육 본연의 업무에 집중할 수 있도록 지원합니다.
 
-### 6. 팀즈 수업 팀 동기화 ( SDS : Microsoft School Data Sync )  
+* **양대 플랫폼 계정 일괄 생성 및 관리:**
+    * **하나의 명단**(*나이스 학급 정보 등*)을 기반으로 Microsoft 365와 Google Workspace 계정을 **동시에, 자동으로 생성**합니다.
+    * **도메인 일괄 변경, 비밀번호 재설정, 계정 삭제** 등 대규모 계정 관리를 일괄 처리하여 시간과 노력을 획기적으로 절약합니다.
+* **학년도 변동 사항 자동 처리:**
+    * 진급에 따른 **조직 단위 및 표시 이름 변경**, 신입생 계정 배포, 졸업생 계정 처리 등을 자동으로 수행하여 **새 학년도 준비 업무를 간소화**하고 오류를 방지합니다.
 
-> 마이크로소프트가 제공하는 학교 데이터 동기화(SDS) 기능을 이용해 수업 팀을 일괄 구성하고 구성 속성과 함께 디지털 학습활동을 SDS Data Lake에 저장할 수 있습니다.
-> SDS Data Lake 에 저장된 정보를 Education Data Lake에 통합하여 교육청 단위 디지털 학습활동을 분석할 수 있습니다.
-   
-   ![image](https://user-images.githubusercontent.com/16409151/213898735-81058867-2488-4d8b-a44e-5dad5adb00ef.png)
+### 2. 🛡️ 최고 수준의 보안 및 안정성 확보
 
+교육 환경에서 가장 중요한 개인정보보호를 최우선으로 하여 안정적인 시스템 운영 환경을 제공합니다.
 
+* **개인정보 유출 위험 제거:**
+    * 교육청 소속 **모든 교사와 학생의 가입 정보가 외부 저장소에 모여 보관되지 않도록** 기능을 구현하여, 개인정보 유출 위험을 원천적으로 차단합니다.
+    * 별도의 복잡하고 고가인 계정 관리 시스템을 구축할 필요가 없습니다.
+* **데이터 일관성 유지:**
+    * Microsoft School Data Sync (SDS) 표준을 지원하는 등 플랫폼 간 데이터 동기화의 일관성을 유지하여 시스템 안정성을 높입니다.
 
-   
-### 7. Open Education Analytics
+### 3. 🌐 통합된 사용자 경험 및 학습 접근성 향상
 
-   <<빅데이터로 학습하기: 교육의 미래 Learning with Big Data The Future of Education >>  
-   
->앞으로 사용될 방대하고 다양한 자료집합에 비하면 이제껏 교육에서 사용되어온 시험 점수, 성적표, 출석부 등의 몇 가지 측정 기준은 매우 초라해 보일 것, 학생이 화면에서 클릭하는 지점, 답하는 데 걸리는 시간 등 매우 다양한 자료를 수집하고 또한 수십만 명에 달하는 학생들의 자료를 수집하고 저장하고 분석할 수 있다.
-   
-  OEA(Open Education Analytics)는 Microsoft Education이 조정하는 오픈 소스 프로그램입니다.  
-  디지털 학습분석을 사용하면 학생과 교사에게 더나은 피드백을 제공할 수 있습니다.
+교사와 학생이 플랫폼을 오가는 불편함을 없애고 학습에 바로 집중할 수 있는 환경을 조성합니다.
 
-   ![image](https://user-images.githubusercontent.com/16409151/213896858-f4d6bd35-07ce-45d7-ac30-e7d26c51490b.png)
+* **하나의 아이디로 SSO 구현:**
+    * Microsoft 365와 Google Workspace 계정을 **하나의 아이디로 통합**하여 안전하고 편리한 **싱글사인온(SSO) 인증**을 사용합니다. 로그인 오류를 줄이고 모든 학습 도구에 즉시 접근할 수 있습니다.
+* **수업 환경 자동 구축:**
+    * 교사의 수동 작업 없이 **Microsoft Teams의 수업 팀**과 **Google Classroom의 클래스**가 **자동으로 생성**되고 구성원이 동기화됩니다. 교사는 번거로운 명단 관리 대신 수업 설계에만 집중할 수 있습니다.
+* **공공 교육 플랫폼 연계:**
+    * 시도교육청 공공 교육 플랫폼(GMOOC 등)에 **별도의 회원가입 없이 SSO 로그인**을 가능하게 하여, 공공 교육 서비스 활용의 진입 장벽을 낮춥니다.
 
-### 8. 확장 가능한 온라인 학습 플랫폼 
+### 4. 💡 확장된 학습 경험 및 교사의 수업 유연성
 
-   교육용 클라우드 아이디(Microsoft, Google)를 통합하여 교사와 학생에게 보다 안전하고 더 많은 장치와 콘텐츠에 대한 접근 기회를 제공합니다.
+ClassSync를 통해 교사와 학생은 더 넓고 풍부한 디지털 학습 경험을 누릴 수 있습니다.
 
-  ![image](https://user-images.githubusercontent.com/16409151/213899720-a4ad63bd-0738-4a26-bf59-efc0fdfae857.png)
+* **AI 기반 학습 환경 통합:**
+    * Microsoft Learning Accelerators, Google Classroom AI 기능 등 **양대 플랫폼의 최신 AI 도구**를 교사와 학생이 동시에 활용할 수 있는 **통합 학습 환경**을 빠르게 구축하여 학습의 질과 효율을 높입니다.
+* **교사의 플랫폼 선택 유연성:**
+    * 두 플랫폼이 유기적으로 연결되므로, 교사는 수업의 목표와 성격에 따라 **가장 적합한 플랫폼을 자유롭게 선택**할 수 있어 수업의 질과 만족도를 높일 수 있습니다.
+* **교사 행정 지원:**
+    * 학교 이동 시 기존 학교의 **드라이브 파일(OneDrive, Google Drive 등)을 새 계정으로 안전하게 이전**할 수 있도록 지원하여, 교사의 행정 업무 부담을 실질적으로 줄여줍니다.
 
-### 9. ClassSync for K12 와 Microsoft 365 Google Workspace 연동   
-> 9.1. ClassSync for K12는 Microsoft School Data Sync Format 2.1 지원합니다.  
-> https://learn.microsoft.com/ko-kr/schooldatasync     
-> 9.2. OEA(Open Education Analytics)  
-> https://learn.microsoft.com/ko-kr/microsoft-365/education/deploy/open-education-analytics    
-> 9.3. Microsoft 365, Google Workspace 학교 관리자 계정  
-> 학교 전역관리자 권한이 있는 사용자는 ClassSync for K12 에서 제공하는 기능을 실행할 수 있습니다.   
-> Microsoft 365, Google Workspace 싱글사인온 구성은 테넌트 1:1 로 구성됩니다.
-
-### 10. 프로그램 사용관련    
-> 10.1. 모든 학교는 ClassSync에서 무료로 제공하는 통합 계정 관리 기능을 통해 Microsoft 365와 Google Workspace 에 학교 계정을 일괄 생성하고 관리하고 싱글사인온을 구성할 수 있습니다.   
-> 10.2. ClassSync 앱을 처음 사용하는 학교는 학교당 1회 1년 동안 유료로 제공되는 기능과 원격구축지원서비스를 통해 마이크로소프트 팀즈와 구글 클래스룸에 인공지능 기반 학습환경을 구축할 수 있습니다.   
-> 10.3. 1년간 원격구축지원서비스가 포함된 유료 기술지원서비스를 학교장터에서 1년 단위로 구매할 수 있습니다. 클래스싱크 S2B 물품번호 202302165821533 https://s2b.kr      
-
-### 제품문의 동서정보시스템 classsync@dongseo.com
-ClassSync는 데이터 분석과 AI를 보다 효과적이고 윤리적으로 사용할 수 있도록 그 시작을 만들고 함께 동행하겠습니다
+---
+**ClassSync는 IT 관리자에게는 효율성을, 교사와 학생에게는 더 편리하고 풍부한 학습 경험을 제공함으로써, 우리 학교의 성공적인 디지털 전환을 이끄는 가장 강력한 도구가 될 것입니다.**
