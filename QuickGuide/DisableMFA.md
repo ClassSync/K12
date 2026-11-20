@@ -30,7 +30,8 @@
 ![image](https://github.com/ClassSync/K12/assets/16409151/6ca63aaa-9120-4de0-a6f6-803f0c0aaf49)
 
 ### 2. 로그인 시 암호 재설정 보안 정보 등록 요구 해제
-이 설정은 셀프 서비스 암호 재설정(SSPR) 대상 사용자가 로그인할 때 암호 재설정에 사용할 보안 정보를 등록하도록 요구할지를 결정합니다. **아니요**를 선택하면 일반 로그인 과정에서 SSPR 보안 정보 등록을 별도로 요구하지 않습니다.   
+이 설정은 셀프 서비스 암호 재설정(SSPR) 대상 사용자가 로그인할 때 암호 재설정에 사용할 보안 정보를 등록하도록 요구할지를 결정합니다. **아니요**를 선택하면 일반 로그인 과정에서 셀프 서비스 암호 재설정 보안 정보 등록을 별도로 요구하지 않습니다.   
+이 설정은 다단계 인증을 해제하는 설정이 아닙니다. 사용자 단위 MFA가 활성화된 교직원과 관리자는 이 설정을 **아니요**로 변경해도 다음 로그인 과정에서 Microsoft Authenticator 등 MFA에 필요한 인증 방법을 등록하게 됩니다.   
 Microsoft Entra 관리 센터 화면에서 **Entra ID → 보호 → 암호 재설정 → 등록**을 선택하면 표시되는 화면에서 **'사용자가 로그인 시 등록하도록 요구하시겠습니까?' 아니오** 선택 후 저장   
 [계정 보안 유지 해제 바로가기](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Registration/fromNav/Identity?Microsoft_AAD_IAM_legacyAADRedirect=true)   
 <img width="1281" height="778" alt="image" src="https://github.com/user-attachments/assets/922a0061-b625-4172-82a4-c08eaf14b7a3" />
