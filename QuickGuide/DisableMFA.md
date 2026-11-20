@@ -35,13 +35,24 @@ Entra 관리 센터 화면에서 보호 > 암호 재설정 > 등록을 선택하
 ![image](https://github.com/ClassSync/K12/assets/16409151/c27b3189-b7aa-47cb-a894-13e4e21da2f6)
 
 ### 3. 암호 만료 정책 설정
+암호 만료 정책을 변경할 때는 학생, 교직원 및 관리자 계정에 동일한 정책이 적용될 수 있다는 점을 고려해야 합니다.   
 Microsoft 365 관리 센터 화면에서 **설정 → 조직 설정 → 보안 및 개인정보 → 암호 만료 정책**을 선택하면 표시되는 화면에서 **암호가 만료되지 않도록 설정(권장)** 선택 후 저장   
 [암호 만료 정책 설정 바로가기](https://admin.microsoft.com/Adminportal/Home?#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)   
 ![image](https://github.com/ClassSync/K12/assets/16409151/7f29224f-06a2-40ca-8a7e-ad7beb843db7)
 
-### 4. 다단계 인증을 해제한 경우 관리자 암호 변경 
-[관리자 암호 변경 바로가기](https://go.microsoft.com/fwlink/?linkid=2224198)   
-![image](https://github.com/ClassSync/K12/assets/16409151/ad948fa9-3aa5-4654-90ed-655a6dc5e1d9)
+### 4. 다단계 인증을 해제한 경우 관리자 암호 변경
+암호 변경이 필요한 계정은 Microsoft 암호 변경 페이지에서 새로운 암호로 변경합니다.
+
+[Microsoft 암호 변경](https://passwordreset.microsoftonline.com)
+
+암호 변경 화면에서 다음 정보를 입력합니다.
+
+- 사용자 계정
+- 현재 암호
+- 새 암호
+- 새 암호 확인
+
+새 암호는 기존 암호와 다르게 설정하고, 다른 서비스에서 사용 중인 암호를 재사용하지 않습니다.   
 
 ### 5. 보안 기본값 비활성화 후 전역 관리자 및 필요한 사용자에게 다단계 인증 설정
 보안 기본값을 사용 안 함으로 변경하면 조직 전체에서 보안 기본값이 제공하던 다단계 인증 보호가 해제됩니다. 모든 전역 관리자 계정에는 다단계 인증을 반드시 설정해야 합니다.
