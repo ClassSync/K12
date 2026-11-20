@@ -296,7 +296,7 @@ Google의 기능 및 파일 형식 변경에 따라 실제 지원 여부가 달�
 
 ## 관련 링크
 
-- [ClassSync OneDrive Mover 상세 안내](https://www.dongseo.com/classsync-teacher)
+- [ClassSync OneDrive Mover 안내](https://www.dongseo.com/classsync-teacher)
 - [ClassSync App 개인정보 처리방침](https://www.dongseo.com/privacy-policy)
 - [ClassSync 서비스 이용약관](https://www.dongseo.com/terms-of-service)
 - [ClassSync 설치 및 제품 정보](https://www.dongseo.com/classsync-k12)
