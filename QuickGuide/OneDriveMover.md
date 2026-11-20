@@ -9,9 +9,9 @@
 > [!IMPORTANT]
 > ClassSync Mover는 전체 Microsoft 365 테넌트나 사용자 계정을 마이그레이션하는 도구가 아닙니다. 사용자 ID, 계정 설정, 공유 권한, 공유 링크, Microsoft 365 테넌트 설정은 이전하지 않으며 선택한 파일과 폴더만 복사합니다.
 
-- 제품 안내: [ClassSync OneDrive Mover](https://classsync.io/onedrive-mover/)
-- 개인정보 처리 안내: [ClassSync App Privacy Policy](https://classsync.io/privacy-policy-classsync-app/)
-- 서비스 이용약관: [ClassSync Terms of Service](https://classsync.io/terms-of-service/)
+- 제품 안내: [ClassSync OneDrive Mover](https://www.dongseo.com/classsync-teacher)
+- 개인정보 처리 안내: [ClassSync App Privacy Policy](https://www.dongseo.com/privacy-policy)
+- 서비스 이용약관: [ClassSync Terms of Service](https://www.dongseo.com/terms-of-service)
 
 ---
 
@@ -291,7 +291,7 @@ Google의 기능 및 파일 형식 변경에 따라 실제 지원 여부가 달�
 
 ## 관련 링크
 
-- [ClassSync OneDrive Mover 상세 안내](https://classsync.io/onedrive-mover/)
-- [ClassSync App 개인정보 처리방침](https://classsync.io/privacy-policy-classsync-app/)
-- [ClassSync 서비스 이용약관](https://classsync.io/terms-of-service/)
-- [ClassSync 설치 및 제품 정보](https://classsync.io/)
+- [ClassSync OneDrive Mover 상세 안내](https://www.dongseo.com/classsync-teacher)
+- [ClassSync App 개인정보 처리방침](https://www.dongseo.com/privacy-policy)
+- [ClassSync 서비스 이용약관](https://www.dongseo.com/terms-of-service)
+- [ClassSync 설치 및 제품 정보](https://www.dongseo.com/classsync-k12)
