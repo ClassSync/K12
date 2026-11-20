@@ -57,6 +57,6 @@ Microsoft Entra 관리 센터에서 **Entra ID → 사용자 → 모든 사용�
 
 **전역 관리자와 주요 관리자 계정은 다단계 인증 없이 운영해서는 안 되며, 교직원을 포함하여 계정 보호가 필요한 사용자에게도 다단계 인증을 수동으로 설정해야 합니다.**
 
-[다단계 인증 설정 바로가기](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView)   
+[사용자 단위 다단계 인증 설정 바로가기](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView)   
 <img width="1217" height="949" alt="image" src="https://github.com/user-attachments/assets/4fd1655c-3866-4f42-a050-66e0ca9da8b8" />
 
