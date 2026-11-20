@@ -1,3 +1,13 @@
 ## 암호 변경 
-#### 암호 변경 바로가기 : https://go.microsoft.com/fwlink/?linkid=2224198
-<img width="558" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/828f68ad-b786-4d5d-b817-c2d29138d1ec">
+#### 암호 변경이 필요한 계정은 Microsoft 암호 변경 페이지에서 새로운 암호로 변경합니다.
+
+https://passwordreset.microsoftonline.com
+
+암호 변경 화면에서 다음 정보를 입력합니다.
+
+- 사용자 계정
+- 현재 암호
+- 새 암호
+- 새 암호 확인
+
+새 암호는 기존 암호와 다르게 설정하고, 다른 서비스에서 사용 중인 암호를 재사용하지 않습니다.
