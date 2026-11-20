@@ -89,5 +89,6 @@ Microsoft Entra 관리 센터에서 다음 경로로 이동합니다.
 사용자 단위 MFA를 활성화한 사용자는 다음 로그인 과정에서 Microsoft Authenticator, 전화 또는 조직에서 허용한 다른 인증 방법을 등록할 수 있습니다.
 
 [사용자 단위 다단계 인증 설정 바로가기](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView)   
-<img width="1217" height="949" alt="image" src="https://github.com/user-attachments/assets/4fd1655c-3866-4f42-a050-66e0ca9da8b8" />
+<img width="1215" height="764" alt="image" src="https://github.com/user-attachments/assets/8e7487e6-162e-44e3-935f-ac050638fba0" />
+
 
