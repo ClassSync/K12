@@ -13,6 +13,10 @@
 - 개인정보 처리 안내: [ClassSync App Privacy Policy](https://www.dongseo.com/privacy-policy)
 - 서비스 이용약관: [ClassSync Terms of Service](https://www.dongseo.com/terms-of-service)
 
+<img width="1280" height="846" alt="image" src="https://github.com/user-attachments/assets/09e778de-4812-41d3-b08c-3e427089adce" />
+
+
+
 ---
 
 ## 주요 기능
