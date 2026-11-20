@@ -83,6 +83,7 @@ ClassSync Mover는 선택한 파일을 모두 내려받은 후 업로드하는 �
 2. 목적지 목록 조회 및 자동 선택
 3. 원본 파일 가져오기
 ```
+<img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/a7ef3169-dc06-454e-929b-24b42a740a0e" />   
 
 목적지 목록을 먼저 조회하고 **자동 선택**을 사용하면 이미 복사된 파일을 제외하기 쉬워집니다. 중단된 복사를 이어서 진행할 때도 이 절차를 권장합니다.
 
