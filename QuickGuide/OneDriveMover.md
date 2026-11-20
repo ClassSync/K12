@@ -1,46 +1,297 @@
-# Mover 전송 마법사를 사용하여 OneDrive 파일 전송
-### 전출, 전학, 진학시 기존 학교 원드라이브 데이터를 새로운 학교 원드라이브로 이동할 수 있습니다.
-### 퇴직, 졸업시 사용하던 원드라이브 데이터를 개인 원드라이브로 이동할 수 있습니다.
-## 작업순서 요약   
-> #### 1. 기존 학교 계정, 새로운 학교 계정 정보를 준비합니다.
-> #### 2. 기존학교 여러 수업 팀에서 사용하던 데이터를 기존학교 원드라이브에 저장합니다.
-> #### 3. https://app.mover.io 에 접속하여 원드라이브 데이터를 이동합니다.   
-## Mover 전송 마법사 실행 ( https://app.mover.io )
-### Step 1: Select source (기존 학교 계정으로 로그인) 
->#### 1.1 Mover 앱 로그인
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/b647ab1a-f11d-4093-b988-cea54a0c5933">
+# 학교 이동 | 클라우드 파일 복사 (OneDrive Mover)
 
->#### 1.2 Step 1: Select source 화면에서 Authorize New Connector 선택
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/37932e24-c427-4341-bc69-95a186a32f71">
+> 기존 학교의 OneDrive, Microsoft Teams 또는 Google Drive에서 필요한 파일과 폴더를 선택하여 새로운 학교의 Microsoft 365 OneDrive로 복사합니다.
 
->#### 1.3 OneDrive for Business(Single User) Authorize 선택
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/4115e17b-a6c8-4b1b-b0fa-fa03a5601bf8">
+학교를 옮기거나 Microsoft 365 계정이 변경되면 기존 학교 계정에 저장된 수업 자료와 학습 파일을 새로운 학교 계정으로 옮겨야 할 수 있습니다.
 
->#### 1.4 Display Name에 기존학교를 입력하고 Authorize 선택
-><img width="1105" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/8070d1e0-f159-464a-b22f-dc2e590f962c">
+**ClassSync Mover**는 권한이 있는 교사와 학생이 기존 학교 클라우드 계정에서 선택한 파일과 폴더를 새 학교의 OneDrive로 복사할 수 있도록 지원합니다. 원본 파일은 이동하거나 삭제하지 않으며 목적지 OneDrive에 복사본을 생성합니다.
 
->#### 1.5 기존 학교 계정 입력
-><img width="1105" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/94dc171c-27bd-4ea5-8dc3-6d7188ddda5c">
+> [!IMPORTANT]
+> ClassSync Mover는 전체 Microsoft 365 테넌트나 사용자 계정을 마이그레이션하는 도구가 아닙니다. 사용자 ID, 계정 설정, 공유 권한, 공유 링크, Microsoft 365 테넌트 설정은 이전하지 않으며 선택한 파일과 폴더만 복사합니다.
 
-### Step 2: Select destination (새로운 학교 계정으로 로그인) 
->#### 2.1 Step 2: Select destination 화면에서 Authorize New Connector 선택
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/8553f24d-0c14-48f4-919e-b66a64e65376">
+- 제품 안내: [ClassSync OneDrive Mover](https://classsync.io/onedrive-mover/)
+- 개인정보 처리 안내: [ClassSync App Privacy Policy](https://classsync.io/privacy-policy-classsync-app/)
+- 서비스 이용약관: [ClassSync Terms of Service](https://classsync.io/terms-of-service/)
 
->#### 2.2 OneDrive for Business (Single User) Authorize 선택
-><img width="1108" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/929ac529-1dcc-4143-81bf-129be3f75db1">
+---
 
->#### 2.3 Display Name을 새로운학교를 입력하고 Authorize 선택
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/28865386-0392-4c90-99be-9f0fce0801f5">
+## 주요 기능
 
->#### 2.4 새로운 학교 계정 입력
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/3513306c-3971-4782-92ce-bf6f3a954a45">
+- 기존 학교 OneDrive에서 새 학교 OneDrive로 파일 복사
+- Microsoft Teams의 지원되는 파일을 OneDrive로 복사
+- Google Drive의 지원되는 파일과 폴더를 OneDrive로 복사
+- 개별 파일, 여러 파일, 폴더 및 하위 폴더 선택
+- 원본·목적지 비교 후 미복사 항목을 찾는 **자동 선택**
+- 다운로드와 업로드를 동시에 처리하는 로컬 병렬 전송
+- 원본 파일을 유지하면서 목적지에 복사본 생성
 
-### Step 3: Start transferring (복사 실행)
->#### 3.1 Start Copy 선택
-><img width="1106" alt="image" src="https://github.com/ClassSync/K12/assets/16409151/e1576ade-37c8-4350-835e-3f88cb849105">
+### 지원하는 복사 경로
 
->#### 3.2 복사가 완료되면 결과 화면이 표시됨 
->![image](https://github.com/ClassSync/K12/assets/16409151/3e6465a3-8382-45d9-921d-59c6517d296d)
+| 원본 | 목적지 | 복사 대상 예시 |
+|---|---|---|
+| 이전 학교 OneDrive | 새 학교 OneDrive | 개인 파일, 수업 자료, 폴더 |
+| Microsoft Teams | 새 학교 OneDrive | 과제, 수업 자료, 공유 리소스 |
+| Google Drive | 새 학교 OneDrive | 지원되는 파일, 폴더, Google Workspace 문서 |
 
-### Microsoft 참고링크
-https://support.microsoft.com/en-us/office/transfer-files-to-your-personal-onedrive-with-the-mover-transfer-wizard-7dbda93c-71e6-483f-8914-ad445554cd31
+목적지는 Microsoft 365 OneDrive 계정으로 지정합니다.
+
+---
+
+## 외부 중계 서버에 파일을 저장하지 않습니다
+
+ClassSync Mover는 전송할 파일의 중간 저장소로 DONGSEO가 운영하는 외부 중계 서버를 사용하지 않습니다.
+
+```text
+원본 학교 클라우드
+→ 사용자의 Windows PC에서 임시 처리
+→ 새 학교의 OneDrive
+```
+
+전송 중인 파일에는 사용자 PC의 임시 저장 공간이 필요합니다. 목적지 OneDrive로 업로드가 완료된 임시 파일은 순차적으로 정리됩니다.
+
+> [!IMPORTANT]
+> 파일 전송은 사용자의 Windows PC를 통해 진행됩니다. 복사가 완료될 때까지 인터넷 연결을 유지하고 ClassSync 앱이나 PC를 종료하지 마십시오.
+
+---
+
+## 로컬 병렬 전송 파이프라인
+
+ClassSync Mover는 선택한 파일을 모두 내려받은 후 업로드하는 방식이 아닙니다. 다운로드가 완료된 파일부터 목적지 OneDrive로 업로드하는 제한형 병렬 파이프라인을 사용합니다.
+
+현재 기본 처리값은 다음과 같습니다.
+
+- 동시 다운로드: 최대 **4개**
+- 다운로드 완료 후 업로드를 기다리는 파일: 최대 **5개**
+- 동시 업로드: 최대 **4개**
+
+다운로드와 업로드가 동시에 진행되므로 전체 복사 자료를 PC에 한꺼번에 저장할 필요가 줄어듭니다. 다만 현재 처리 중인 파일을 위한 로컬 임시 공간은 필요합니다.
+
+> 처리값은 성능과 안정성 개선에 따라 변경될 수 있습니다. 실제 처리 속도는 파일 크기, PC 성능, 인터넷 연결, 원본 클라우드 및 Microsoft 365 API 응답 상태에 따라 달라집니다.
+
+---
+
+# 클라우드 파일 복사 방법
+
+권장 작업 순서는 다음과 같습니다.
+
+```text
+1. 원본 드라이브 선택 및 목록 가져오기
+2. 목적지 목록 조회 및 자동 선택
+3. 원본 파일 가져오기
+```
+
+목적지 목록을 먼저 조회하고 **자동 선택**을 사용하면 이미 복사된 파일을 제외하기 쉬워집니다. 중단된 복사를 이어서 진행할 때도 이 절차를 권장합니다.
+
+## 1. 원본 드라이브 선택
+
+복사할 자료가 저장된 원본 클라우드를 선택합니다.
+
+### 지원하는 원본 드라이브
+
+- OneDrive
+- Microsoft Teams
+- Google Drive
+
+원본 학교 계정으로 로그인한 후 원본에 맞는 목록 가져오기 기능을 선택합니다.
+
+- OneDrive: **OneDrive 목록 가져오기**
+- Microsoft Teams: **Teams 목록 가져오기**
+- Google Drive: **Google Drive 목록 가져오기**
+
+로그인이 완료되면 사용자가 접근할 수 있는 파일과 폴더가 표시됩니다.
+
+### Microsoft Teams 파일이 표시되지 않는 경우
+
+Microsoft Teams 파일을 조회하려면 학교의 Microsoft 365 관리자 승인이 필요할 수 있습니다. Teams 목록이 표시되지 않으면 학교 관리자에게 ClassSync 앱 승인을 요청하고, 승인 후 Teams 옵션을 활성화하여 목록을 다시 가져옵니다.
+
+---
+
+## 2. 목적지 목록 조회 및 자동 선택
+
+새 학교의 Microsoft 365 계정으로 로그인한 후 **목적지 목록 조회**를 선택합니다. 목적지 OneDrive에 이미 저장된 파일과 폴더가 표시됩니다.
+
+목적지 목록을 불러온 후 **자동 선택**을 실행하면 원본과 목적지를 다음 기준으로 비교합니다.
+
+- 폴더 경로
+- 파일명
+- 파일 크기
+
+목적지 비교에서 발견되지 않은 원본 파일이 자동으로 선택됩니다. 이미 일부 파일을 복사했거나 중단된 작업을 다시 시작할 때 유용합니다.
+
+> [!WARNING]
+> 자동 선택의 비교에는 파일 크기가 사용됩니다. 실제 복사를 실행할 때 원본과 목적지의 **폴더 경로와 파일명이 같으면 목적지 파일을 원본 내용으로 덮어씁니다.** 기존 목적지 파일을 유지해야 한다면 다른 폴더를 선택하거나 파일명을 변경하십시오.
+
+### 원본에서 선택할 수 있는 항목
+
+- 개별 파일
+- 여러 파일
+- 폴더
+- 하위 폴더를 포함한 전체 폴더
+
+### 사용할 수 있는 선택 기능
+
+- 전체 선택
+- 전체 선택 취소
+- 확장
+- 축소
+- 자동 선택
+
+목적지 목록을 조회하지 않고도 파일을 복사할 수는 있지만, 앱의 목적지 목록이 비어 있어 비교와 자동 선택 기능을 사용할 수 없습니다. 많은 파일을 복사하거나 중단된 작업을 이어서 진행할 때는 목적지 목록 조회와 자동 선택을 권장합니다.
+
+---
+
+## 3. 원본 파일 가져오기
+
+복사할 파일과 폴더를 선택한 후 **원본 파일 가져오기**를 선택합니다.
+
+선택한 파일은 사용자 PC에서 임시 처리된 후 목적지 OneDrive로 업로드됩니다. 이 작업은 목적지에 복사본을 생성하며 원본 파일을 이동, 수정 또는 삭제하지 않습니다.
+
+진행 화면에서 다음 항목을 확인할 수 있습니다.
+
+- 파일 수
+- 폴더 수
+- 저장 용량
+- 진행 상태
+- 대기 중인 항목
+- 완료 또는 실패한 항목
+
+`Pending` 수에는 다운로드, 로컬 대기, 업로드 등 서로 다른 처리 단계에 있는 파일이 포함될 수 있습니다. 표시된 대기 수와 내부 업로드 대기열의 파일 수가 항상 같지는 않을 수 있습니다.
+
+---
+
+## 4. 복사 결과 확인
+
+복사가 완료되면 새 학교 계정의 OneDrive에서 다음 항목을 확인합니다.
+
+- 선택한 파일과 폴더가 모두 생성되었는지 확인
+- 하위 폴더 구조가 유지되었는지 확인
+- 주요 문서와 수업 자료가 정상적으로 열리는지 확인
+- 실패하거나 누락된 파일이 있는지 확인
+- 목적지의 기존 파일이 덮어써지지 않았는지 확인
+- 필요한 공유 권한과 공유 링크를 새 계정에서 다시 설정
+
+> ClassSync Mover는 공유 권한, 공유 링크, 사용자 계정 구성 또는 테넌트 설정을 이전하지 않습니다.
+
+---
+
+# Google Drive 파일 형식 지원
+
+표준 Google 문서, 스프레드시트 및 프레젠테이션은 복사 과정에서 지원되는 파일 형식으로 자동 변환됩니다.
+
+일부 Google 전용 클라우드 객체는 OneDrive 파일로 직접 복사할 수 없어 전송 대상에서 제외됩니다.
+
+| 항목 | 처리 방식 |
+|---|---|
+| Google Docs | 지원 형식으로 자동 변환 |
+| Google Sheets | 지원 형식으로 자동 변환 |
+| Google Slides | 지원 형식으로 자동 변환 |
+| Google Vids | 제외 |
+| Google Forms | 폼 자체는 제외, 연결된 응답 스프레드시트만 별도 복사 가능 |
+| Google Sites | 제외 |
+| Google My Maps | 제외 |
+| Apps Script | 자동 복사 제외, 편집기에서 코드를 수동으로 내보내야 함 |
+| Jamboard | 제외 |
+| Colab | `.ipynb` 파일은 복사 가능 |
+| Google Drive 바로가기 | 제외 |
+
+Google의 기능 및 파일 형식 변경에 따라 실제 지원 여부가 달라질 수 있으므로 중요한 자료는 복사 결과를 직접 확인하십시오.
+
+---
+
+# 활용 사례
+
+## 교사 또는 학생의 학교 이동
+
+기존 학교 계정의 수업 자료와 개인 학습 파일을 새 학교의 Microsoft 365 OneDrive 계정으로 복사할 수 있습니다.
+
+## Microsoft 365 계정 변경
+
+기존 학교 계정의 선택한 파일과 폴더를 새로 발급된 Microsoft 365 계정으로 복사할 수 있습니다.
+
+## Google Drive에서 OneDrive로 이전
+
+권한이 있는 Google Drive의 지원되는 파일과 폴더를 새 학교의 OneDrive로 복사할 수 있습니다.
+
+## 퇴직 교직원의 업무 자료 보관
+
+학교 정책과 사용자 권한이 허용하는 범위에서 OneDrive 또는 Teams의 업무 파일을 학교가 승인한 보관 계정으로 복사할 수 있습니다.
+
+## 학교 통폐합 또는 운영 환경 변경
+
+학교 통합, 계정 재발급 또는 Microsoft 365 운영 구조 변경으로 학교 계정이 바뀌는 경우 필요한 파일을 새 계정으로 복사할 수 있습니다.
+
+---
+
+# 사용 전 확인 사항
+
+- 원본 클라우드와 목적지 OneDrive에 모두 로그인해야 합니다.
+- 목적지 OneDrive에 충분한 저장 공간이 있어야 합니다.
+- 전송 중인 파일을 처리할 수 있는 PC 임시 저장 공간이 필요합니다.
+- 복사가 완료될 때까지 인터넷 연결, ClassSync 앱 및 PC를 유지해야 합니다.
+- 파일 수가 많거나 용량이 크면 PC 성능과 네트워크 상태에 따라 시간이 오래 걸릴 수 있습니다.
+- 원본 파일은 삭제되거나 변경되지 않습니다.
+- 원본과 목적지의 경로와 파일명이 같으면 목적지 파일을 덮어씁니다.
+- 권한, 학교 정책 또는 클라우드 API 제한으로 일부 파일이 복사되지 않을 수 있습니다.
+- Microsoft Teams 파일 조회에는 Microsoft 365 관리자 승인이 필요할 수 있습니다.
+- 공유 권한, 공유 링크, 사용자 ID 및 테넌트 설정은 복사되지 않습니다.
+
+---
+
+# 자주 묻는 질문
+
+## Q1. 전체 OneDrive 계정이나 Microsoft 365 테넌트를 이전하나요?
+
+아니요. ClassSync Mover는 사용자가 선택한 파일과 폴더만 복사합니다. 사용자 계정, 계정 설정, 공유 권한, 공유 링크 및 Microsoft 365 테넌트 설정은 이전하지 않습니다.
+
+## Q2. 학생도 사용할 수 있나요?
+
+네. 학생이 원본 학교 계정과 목적지 학교 계정에 로그인할 수 있고 해당 자료에 접근 권한이 있다면 지원되는 파일을 목적지 OneDrive로 복사할 수 있습니다.
+
+## Q3. OneDrive 파일을 다른 학교 계정으로 복사할 수 있나요?
+
+네. 이전 학교와 새 학교의 OneDrive 계정에 각각 로그인한 후 필요한 파일과 폴더를 선택하여 복사할 수 있습니다.
+
+## Q4. Google Drive 파일을 OneDrive로 복사할 수 있나요?
+
+네. 지원되는 Google Drive 파일과 폴더를 OneDrive로 복사할 수 있습니다. Google Docs, Sheets 및 Slides는 지원 형식으로 자동 변환되며 일부 Google 전용 객체는 제외됩니다.
+
+## Q5. Microsoft Teams 파일도 복사할 수 있나요?
+
+네. 사용자가 접근 권한을 가진 지원 파일을 목적지 OneDrive로 복사할 수 있습니다. 파일 목록 조회를 위해 학교 Microsoft 365 관리자의 앱 승인이 필요할 수 있습니다.
+
+## Q6. 원본 파일은 삭제되나요?
+
+아니요. 원본 파일은 그대로 유지되며 목적지 OneDrive에 복사본이 생성됩니다.
+
+## Q7. 같은 이름의 파일이 목적지에 있으면 어떻게 되나요?
+
+원본과 목적지의 폴더 경로 및 파일명이 같으면 목적지 파일을 원본 내용으로 덮어씁니다.
+
+## Q8. 전송 파일이 ClassSync 외부 서버에 저장되나요?
+
+아니요. ClassSync Mover는 파일 전송의 중간 저장소로 DONGSEO가 운영하는 외부 중계 서버를 사용하지 않습니다. 파일은 권한이 있는 원본 클라우드에서 사용자 Windows PC를 거쳐 목적지 OneDrive로 전송됩니다.
+
+## Q9. 선택한 파일을 모두 PC에 내려받은 후 업로드하나요?
+
+아니요. 다운로드가 완료되고 업로드 여유가 생긴 파일부터 목적지로 전송합니다. 선택한 전체 파일을 먼저 PC에 저장할 필요는 없지만 현재 처리 중인 파일에는 임시 저장 공간이 필요합니다.
+
+## Q10. 목적지 목록을 조회하지 않고 복사할 수 있나요?
+
+네. 목적지 OneDrive에 로그인되어 있다면 선택한 파일을 복사할 수 있습니다. 다만 목적지 비교와 자동 선택을 사용할 수 없으므로, 대량 복사나 중단된 작업을 재개할 때는 목적지 목록을 먼저 조회하는 방식을 권장합니다.
+
+## Q11. 복사 중 ClassSync 앱이나 PC를 종료해도 되나요?
+
+아니요. 파일이 사용자 PC를 통해 처리되므로 복사가 끝날 때까지 인터넷 연결을 유지하고 ClassSync 앱과 PC를 종료하지 마십시오.
+
+## Q12. 복사 실패 파일은 어떻게 확인하나요?
+
+진행 화면에서 실패한 파일과 상태를 확인합니다. 목적지 저장 공간, 원본 접근 권한, 파일명과 경로, 인터넷 연결 및 학교의 클라우드 정책을 점검한 후 실패한 항목을 다시 복사하십시오.
+
+---
+
+## 관련 링크
+
+- [ClassSync OneDrive Mover 상세 안내](https://classsync.io/onedrive-mover/)
+- [ClassSync App 개인정보 처리방침](https://classsync.io/privacy-policy-classsync-app/)
+- [ClassSync 서비스 이용약관](https://classsync.io/terms-of-service/)
+- [ClassSync 설치 및 제품 정보](https://classsync.io/)
